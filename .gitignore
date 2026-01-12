@@ -16,6 +16,9 @@ logseq/.tdb/
 .obsidian/graph.json
 .obsidian/appearance.json
 
+# --- Obsidian-git plugin
+.obsidian/plugins/obsidian-git/data.json
+
 # --- OS Specific (Linux/LMDE) ---
 .DS_Store
 Thumbs.db
