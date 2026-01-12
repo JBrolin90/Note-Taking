@@ -5,11 +5,12 @@ Note-Type: Reference
 Created: 2026-01-12
 Time: 16:01
 Media-Type: Youtube video
-Author: "[[What is a digital graden]]"
+Author: "[[What is a digital garden]]"
 Publisher: "[Destina's Youtube channel](https://www.youtube.com/@deestina)"
 Media-Link: "[What is a digital garden](https://www.youtube.com/watch?v=RApAjR4LJAE)"
+Topic: "[[Digital garden]]"
 ---
-[[Digital garden]], [[Emergence]]
+[[Emergence]]
 
 ⌛️ Timestamps 
 - [00:00](https://www.youtube.com/watch?v=RApAjR4LJAE) What's a digital garden? 
