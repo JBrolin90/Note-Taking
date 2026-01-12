@@ -1,0 +1,10 @@
+{
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages",
+  "attachmentFolderPath": "assets",
+  "userIgnoreFilters": [
+    "logseq/bak/"
+  ]
+}

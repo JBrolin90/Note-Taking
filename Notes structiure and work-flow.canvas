@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"45052c962f1420aa","x":722,"y":-720,"width":438,"height":800,"type":"group","label":"My productions"},
+		{"id":"8f67d353ec5a3474","type":"group","x":-300,"y":-720,"width":400,"height":800,"label":"Intermediary Notes"},
+		{"id":"a8fb67fdd0e2e649","type":"group","x":200,"y":-580,"width":380,"height":520,"label":"My conclusions and knowledge"},
+		{"id":"c09b5b62e953d641","type":"group","x":-840,"y":-560,"width":420,"height":420,"label":"Journal"},
+		{"id":"34caace8bf39e123","type":"file","file":"journals/2026-01-10.md","x":-760,"y":-482,"width":280,"height":280},
+		{"id":"6e71e69a606553c3","type":"file","file":"pages/Inbox Note.md","x":-241,"y":-652,"width":300,"height":235},
+		{"id":"dbbef220366cd6bb","type":"file","file":"pages/Reference Note.md","x":-241,"y":-300,"width":300,"height":260},
+		{"id":"ebb1177a0ad22db1","type":"file","file":"journals/2026-01-10.md","x":-800,"y":-511,"width":280,"height":280},
+		{"id":"9524af8473f477e0","x":820,"y":-642,"width":250,"height":112,"type":"text","text":"# Blog post\n"},
+		{"id":"0bc872c7ff11f8b9","x":820,"y":-476,"width":250,"height":117,"type":"text","text":"# Digital garden"},
+		{"id":"98c5d37f46a4ec68","x":820,"y":-300,"width":250,"height":111,"type":"text","text":"# Source code"},
+		{"id":"094821cb2821fcfd","x":820,"y":-132,"width":250,"height":100,"type":"text","text":"# Publications"},
+		{"id":"503a3acb7a610d24","type":"file","file":"pages/Atomic Note.md","x":240,"y":-482,"width":300,"height":291}
+	],
+	"edges":[
+		{"id":"88b9ec9d0d3b0904","fromNode":"34caace8bf39e123","fromSide":"right","toNode":"6e71e69a606553c3","toSide":"left"},
+		{"id":"2977d9f890f304b5","fromNode":"34caace8bf39e123","fromSide":"right","toNode":"dbbef220366cd6bb","toSide":"left"},
+		{"id":"aa7f61a0040694b6","fromNode":"6e71e69a606553c3","fromSide":"right","toNode":"503a3acb7a610d24","toSide":"left"},
+		{"id":"e3d0adf35130fabb","fromNode":"dbbef220366cd6bb","fromSide":"right","toNode":"503a3acb7a610d24","toSide":"left"},
+		{"id":"b93704db8204e55a","fromNode":"a8fb67fdd0e2e649","fromSide":"right","toNode":"45052c962f1420aa","toSide":"left"}
+	]
+}

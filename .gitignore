@@ -1,0 +1,42 @@
+# --- Logseq Specific ---
+# Logseq generates a lot of metadata and backups that can cause merge conflicts
+logseq/bak/
+logseq/.recycle/
+logseq/.tdb/
+.logseq/
+# If you don't want to sync your Logseq UI layout between machines:
+# logseq/config.edn
+# logseq/custom.css
+
+# --- Obsidian Specific ---
+# Don't sync the workspace file; it tracks which tabs you have open 
+# and will cause constant git conflicts between your laptop and PC.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/appearance.json
+
+# --- OS Specific (Linux/LMDE) ---
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.nfs*
+
+# --- Developer Artifacts (C# / Avalonia / .NET) ---
+# In case you symlink entire project folders or copy code in.
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+*.vs/
+.idea/
+.vscode/
+
+# --- Sync / Backup Noise ---
+*.tmp
+*.log
+.directory
