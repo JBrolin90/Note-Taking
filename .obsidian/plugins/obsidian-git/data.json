@@ -1,6 +1,6 @@
 {
-  "commitMessage": "Manual commit {{date}} from {{hostname}}",
-  "autoCommitMessage": "Auto commit {{date}} from {{hostname}}",
+  "commitMessage": "Manual {{date}} from {{hostname}}",
+  "autoCommitMessage": "Automatic commit {{date}} from {{hostname}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
@@ -21,7 +21,7 @@
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
-  "refreshSourceControl": true,
+  "refreshSourceControl": false,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
