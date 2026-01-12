@@ -8,10 +8,10 @@ Media-Type: Youtube video
 Author: "[[What is a digital garden]]"
 Publisher: "[Destina's Youtube channel](https://www.youtube.com/@deestina)"
 Media-Link: "[What is a digital garden](https://www.youtube.com/watch?v=RApAjR4LJAE)"
-Topic: "[[Digital garden]]"
+Topic:
+  - "[[Digital garden]]"
+  - "[[Emergence]]"
 ---
-[[Emergence]]
-
 ⌛️ Timestamps 
 - [00:00](https://www.youtube.com/watch?v=RApAjR4LJAE) What's a digital garden? 
 	- A digital garden is a place where cultivate your knowledge with interconnected notes. Cultivate means adding more notes and improving existing notes. 
