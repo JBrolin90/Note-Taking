@@ -2,5 +2,5 @@
 Note-Type: Fleeting
 tags:
   - Fleeting
-Date: "{{date}}"
+Date: "[[{{date}}]]"
 ---
