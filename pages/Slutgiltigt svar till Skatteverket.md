@@ -3,6 +3,7 @@ Topic:
   - "[[Skatteverket]]"
   - "[[SINK]]"
   - "[[SKV]]"
+Date: "[[2026-01-14]]"
 ---
 
 **Till:** Skatteverket, Madeleine Othén
