@@ -11,4 +11,20 @@
   Hundreds := C | CC | CCC | CD | D | DC | DCC | DCCC| CM
   Thousands := M | MM | MMM
 -
-- Numeral MOD 9 + 1 -> 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 {}
+- Numeral DIV 1000  [0-3]  -> 
+  0 | 
+  1 {print("M") } |
+  2  {print("MM")
+  3  {print("MMM")
+- Numeral DIV 1100  [0-9]  -> 
+  0 |
+  1 {print (C)} |
+  2 {print (CC)} |
+  3 {print (CCC)} |
+  4 {print (CD)} |
+  5 {print (D)} |
+  6 {print (DC)} |
+  7 {print (DCC)} |
+  8 {print (DCCC)} |
+  9 {print (CD)}
+  Numeral DIV 1110  [0-9]  ->
