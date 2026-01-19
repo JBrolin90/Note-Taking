@@ -11,4 +11,4 @@
   Hundreds := C | CC | CCC | CD | D | DC | DCC | DCCC| CM
   Thousands := M | MM | MMM
 -
--
+- Numeral MOD 9 + 1 -> 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 {}
