@@ -56,6 +56,6 @@ Carrer d'Eivissa 15,
 5. **Årsredovisningar:** För Sincera Holding AB (RÅ 2017 - 2024) som visar sjunkande omsättning och ändrad styrelse samt total utkomst från bolaget.
 6. **Yrkesmässigt avslut:** Sista lönespecifikation från Ericsson AB och årsbesked från Alecta 2025.
 7. **Social anknytning:** Skolintyg för sonen och registerutdrag för utflyttning.
-8. Folkbokföring (Empadronamiento) Alicante, Spanien sedan oktober 2023  
+8. **Folkbokföring (Empadronamiento)** Alicante, Spanien sedan oktober 2023  
 9. 
     
