@@ -1,7 +1,7 @@
-**Till:** Skatteverket, Madeleine Othén 
+**Till:** Skatteverket, Madeleine Othén, 010-5736342, madeleine.othen@skatteverket.se 
 **Från:** Joachim Brolin (19630316-4930) 
-**Datum:** 2026-01-16 
-**Avser:** Synpunkter på förslag till beslut om SINK daterat 2025-12-19
+**Datum:** 2026-01-19
+**Avser:** Synpunkter på förslag till beslut om SINK daterat 2025-12-19 (Ärende \#301-84405-2025)
 
 **Yrkande** Jag motsätter mig Skatteverkets förslag att avslå min ansökan om SINK för inkomstår 2026. Jag motsätter mig även förslaget att retroaktivt upphäva tidigare beslut för 2024 och 2025. Jag yrkar att min status som begränsat skattskyldig fastställs i enlighet med tidigare beslut.
 
