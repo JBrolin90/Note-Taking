@@ -5,7 +5,7 @@
 - To get 4, 40 and 90, for example, you prepend the next lower symbol (IV = 4, XL = 40 and XC = 90)
 - You do not repeat the symbols V, L or D.
 - Roman numeral [[Context Free Grammar]]
-  Numeral := Thousands ? Hundreds ? Tens ? Units ?
+  Numeral := Thousands ? Hundrefds ? Tens ? Units ?
   Units := I | II | III | IV | V | VI | VII | VIII | IX
   Tens := X | XX | XXX | XL | L | LX | LXX | LXXX | XC
   Hundreds := C | CC | CCC | CD | D | DC | DCC | DCCC| CM
