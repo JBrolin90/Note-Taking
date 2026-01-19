@@ -57,5 +57,5 @@ Carrer d'Eivissa 15,
 6. **Yrkesmässigt avslut:** Sista lönespecifikation från Ericsson AB och årsbesked från Alecta 2025.
 7. **Social anknytning:** Skolintyg för sonen och registerutdrag för utflyttning.
 8. **Folkbokföring (Empadronamiento)** Alicante, Spanien sedan oktober 2023  
-9. 
+9. **Beslut avregistrering från folkbokföring** oktober 2023
     
