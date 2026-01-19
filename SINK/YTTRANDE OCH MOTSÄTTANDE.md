@@ -11,7 +11,7 @@ Jag motsätter mig Skatteverkets förslag att avslå min ansökan om SINK för i
 Skatteverket grundar sitt nuvarande förslag på att min makes ägande i Sincera Holding AB ger mig väsentlig anknytning. Myndigheten har dock redan prövat och tagit ställning till just denna omständighet vid tre tidigare tillfällen:
 
 1. **Avslag inkomstår 2023 (beslut 2024-09-17, ärendenr 301-1022521):** Skatteverket nekade SINK med hänvisning till att jag ägde 50 % av aktierna i Sincera Holding AB .
-2. **Beviljande 2024 (beslut 2024-10-08, ärendenr 301-1028641):** Efter att jag sålt samtliga mina aktier till min maka beviljade Skatteverket min ansökan om SINK.
+2. **Beviljande 2024 (beslut 2024-10-08, ärendenr 301-1028641):** Efter att jag sålt samtliga mina aktier till min maka samt lämnat bolagets styrelse beviljade Skatteverket min ansökan om SINK.
 3. **Beviljande 2025 (beslut 2025-01-28, ärendenr 301-3042-2025):** Skatteverket bekräftade återigen min status som begränsat skattskyldig baserat på samma förhållanden som föreligger idag .
 
 ## **Definitivt yrkesmässigt avslut och pensionering**
@@ -35,7 +35,7 @@ Bolagets verksamhet är ekonomiskt försumbar och utgör ingen väsentlig anknyt
 
 - **Ingen ekonomisk vinning:** Jag har personligen erhållit 0 kr i ersättning eller utdelning sedan bolaget bildades 2016. Den totala utkomsten från bolaget har i snitt varit endast 15 000 kr/år.
     
-- **Avveckling:** Bolaget saknar fast anställda och omsättningen sjunker stadigt (från 842 000 kr år 2023 till 663 000 kr år 2024). Jag ingår inte längre i styrelsen.
+- **Avveckling:** Bolaget saknar fast anställda och omsättningen sjunker stadigt (från 842 000 kr år 2023 till 663 000 kr år 2024 och preliminärt 528 000 kr  år 2025). Jag ingår inte längre i styrelsen.
     
 
 ## **Tie-breaker (Skatteavtalet Artikel 4)** 
