@@ -34,3 +34,22 @@ Den största svagheten i Skatteverkets förslag är att de i dokumentet endast s
     1. Var har personen en bostad som stadigvarande står till hans förfogande? (Spanien)
         
     2. Var finns de personliga och ekonomiska intressena (centrum för levnadsintressena)? (Spanien – pga sonens skola, fruns jobb och NavIntel).
+
+I ditt svar till Madeleine Othén, lägg till en tydlig rubrik: **"Prövning mot dubbelbeskattningsavtalet mellan Sverige och Spanien"**.
+
+Här förklarar du att även om de anser att du har en teoretisk anknytning via din fru, så innebär din sons skolgång, din frus arbete i Spanien och din egen NavIntel-verksamhet att ditt "centrum för levnadsintressen" otvivelaktigt flyttat till Spanien. Enligt artikel 4 i avtalet ska du därför betraktas som bosatt i Spanien.
+
+**Vill du att jag formulerar det specifika stycket om "Tie-breaker"-regeln så att det blir juridiskt korrekt att lägga till i ditt svar?**
+
+### Juridiskt tillägg: Tie-breaker-regeln (Artikel 4)
+
+Detta stycke är avgörande eftersom det lyfter frågan från svensk lag till internationell rätt (Skatteavtalet), som väger tyngre.
+
+> **Prövning mot dubbelbeskattningsavtalet (SFS 1977:71)** Enligt artikel 4 i skatteavtalet mellan Sverige och Spanien ska hemvistfrågan avgöras genom en s.k. tie-breaker-regel om en person anses ha hemvist i båda länderna.
+> 
+> 1. Jag har min fasta bostad och mitt hem i Alicante, Spanien.
+>     
+> 2. Mitt "centrum för levnadsintressen" är otvivelaktigt i Spanien. Jag är formellt pensionerad med Spanien som min hemvist. Min enda yrkesmässiga aktivitet är personlig kompetensutveckling och FoU inom mjukvaruarkitektur (NavIntel), vilket bedrivs helt lokalt.
+>     
+> 3. Att min maka äger ett mindre bolag i Sverige, som dessutom är under avveckling, kan inte väga tyngre än det faktum att jag är pensionerad i Spanien, att min son går i spansk skola och att min maka arbetar i Spanien. Enligt avtalet ska jag därför anses ha hemvist i Spanien, vilket innebär att Sverige inte kan beskatta mig som obegränsat skattskyldig.
+>
