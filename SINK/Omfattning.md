@@ -28,3 +28,5 @@ Att betrakta ett bolag under avveckling/försäljning, där ägaren själv har s
 **Betona "avveckling":** När du pratar med henne, använd ordet "avveckling" eller "exit". Det signalerar till Skatteverket att det inte finns någon långsiktig plan att behålla bolaget i Sverige.
 
 **Motdrag:** Fortsätt hävda rättssäkerhet, men lägg mer krut på att din anknytning till Sverige faktiskt har **minskat** ytterligare (sonen har nu gått längre tid i spansk skola, bolagets omsättning har sjunkit) sedan de fattade de tidigare besluten.
+
+**"Ingen utdelning 2025":** Det visar att bolaget är på nedgång. Skatteverket kan inte hävda att ett bolag som inte ens kan ge utdelning utgör en "väsentlig" ekonomisk tillgång för dig som pensionär.
