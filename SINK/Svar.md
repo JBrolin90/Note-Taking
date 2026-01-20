@@ -1,3 +1,9 @@
+# YTTRANDE OCH MOTSÄTTANDE
+
+**Till:** Skatteverket, Madeleine Othén, 010-5736342, madeleine.othen@skatteverket.se 
+**Från:** Joachim Brolin (19630316-4930) 
+**Datum:** 2026-01-19
+**Avser:** Synpunkter på förslag till beslut om SINK daterat 2025-12-19 (Ärende \#301-84405-2025)
 ### Anstånd
 
 I enlighet med telefonkontakt med handläggare Madeleine Othén den 14 januari 2026 har jag beviljats anstånd för att lämna synpunkter på förslaget till beslut till och med den **21 januari 2026**. Detta svar inlämnas därmed inom föreskriven tid.
@@ -134,3 +140,10 @@ Mot bakgrund av ovanstående hemställer jag att Skatteverket vidhåller sin tid
 8. **Spansk folkbokföring:** Intyg om _Empadronamiento_ i Mutxamel, Alicante, sedan oktober 2023.
     
 9. **Svenskt registerutdrag:** Bekräftelse på avregistrering från den svenska folkbokföringen (utflyttning) sedan oktober 2023.
+
+
+Med vänlig hälsning,
+
+Joachim Brolin 
+Carrer d'Eivissa 15, 
+03110 Mutxamel, Spanien
