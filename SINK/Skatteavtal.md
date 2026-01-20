@@ -19,3 +19,18 @@ Enligt skatteavtalet mellan Sverige och Spanien ska hemvisten fastställas till 
 
 **Skatteavtalet mellan Sverige och Spanien** I enlighet med skatteavtalet mellan Sverige och Spanien ska mitt hemvist anses vara Spanien, då min fasta bostad, min familj (sonens skola) och mitt centrum för levnadsintressen finns här.
 
+### 2. "Tie-breaker"-regeln i Skatteavtalet (Din starkaste punkt)
+
+Den största svagheten i Skatteverkets förslag är att de i dokumentet endast ser till **intern svensk rätt** (Inkomstskattelagen). De nämner inte skatteavtalet mellan Sverige och Spanien.
+
++1
+
+- **Svagheten:** Skatteverket kan ha rätt i att du har "väsentlig anknytning" enligt svenska regler, men de kan ändå ha fel i att de får beskatta dig.
+    
+    +1
+    
+- **Motdrag:** Du måste tvinga dem att titta på **Artikel 4 i skatteavtalet**. Om en person anses vara bosatt i båda länderna (pga väsentlig anknytning i Sverige och faktiskt boende i Spanien), ska hemvisten avgöras enligt följande hierarki:
+    
+    1. Var har personen en bostad som stadigvarande står till hans förfogande? (Spanien)
+        
+    2. Var finns de personliga och ekonomiska intressena (centrum för levnadsintressena)? (Spanien – pga sonens skola, fruns jobb och NavIntel).
