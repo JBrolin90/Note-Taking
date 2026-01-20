@@ -61,3 +61,13 @@ Dina inskickade beslut visar en tydlig kedja av händelser som du bör lyfta fra
     +3
 
 **Ditt engagemang:** I årsredovisningen för 2023 stod du fortfarande som styrelseledamot. I årsredovisningen för 2024 är du helt **borttagen ur styrelsen** . Detta är ett mycket viktigt bevis för att du aktivt har avvecklat din formella koppling till bolaget.
+
+Dessa årsredovisningar är tillsammans med dina SINK-beslut de viktigaste dokumenten du har. De bevisar att:
+
+1. Du har lämnat styrelsen.
+    
+    +1
+    
+2. Omsättningen dalar kraftigt.
+    
+3. Verksamheten är personalintensiv (städning) men småskalig och kräver inte din närvaro.
