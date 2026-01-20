@@ -49,7 +49,7 @@ Skatteverket anför att mitt indirekta engagemang via min maka i _Sincera Holdin
 
 - **Kraftigt sjunkande omsättning:** Bolagets omsättning har minskat drastiskt de senaste åren. Från 842 000 kr (2023) till 663 000 kr (2024). För räkenskapsåret 2025 har omsättningen sjunkit ytterligare och beräknas preliminärt uppgå till endast 520 000 – 530 000 kr. Denna tydliga trend visar på en verksamhet som successivt trappas ned. (Se bilagor 5g samt 5h)
     
-- **Ingen ekonomisk vinning för mig:** Jag har personligen erhållit exakt 0 kr i ersättning, lön eller utdelning från bolaget sedan det bildades 2016. Jag äger inga andelar i bolaget efter försäljningen i september 2023 (vilket Skatteverket tidigare bekräftat och godkänt). (Se bilagor 5a till och med 5h)
+- **Ingen ekonomisk vinning för mig:** Jag har personligen erhållit exakt 0 kr i ersättning, lön eller utdelning från bolaget sedan det bildades 2016. Jag äger inga andelar i bolaget efter försäljningen i september 2024 (vilket Skatteverket tidigare bekräftat och godkänt). (Se bilagor 5a till och med 5h)
     
 - **Avvecklingsfas och passiv drift:** Bolaget saknar marknadsvärde och befinner sig i en fas av successiv utfasning. (Se bilagor 5a - 5h) **Intag av nya kunder har helt upphört och verksamheten begränsas nu till att endast serva kvarvarande kundavtal tills dessa löper ut eller sägs upp av kunderna.** Denna pragmatiska avvecklingsstrategi kräver minimalt operativt engagemang och understryker att bolaget saknar framtida kommersiellt fokus. Min maka har sedan 2024 även försökt sälja kundstocken utan framgång. 
     
