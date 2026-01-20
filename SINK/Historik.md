@@ -43,3 +43,19 @@ Skatteverket föreslår att upphäva besluten retroaktivt. Detta är juridiskt a
     
 
 Det är rättsosäkert att myndigheten nu föreslår att ändra en etablerad bedömning och retroaktivt riva upp beslut, trots att inga faktiska omständigheter har ändrats till det sämre för min del.
+
+### 2. Tidslinjen för dina SINK-beslut
+
+Dina inskickade beslut visar en tydlig kedja av händelser som du bör lyfta fram som ett argument för rättssäkerhet:
+
+- **Avslag 2024-09-17 (Inkomstår 2023):** Skatteverket nekade SINK för att du då ägde **50 %** av Sincera Holding AB .
+    
+    +1
+    
+- **Beviljande 2024-10-08 (Inkomstår 2024):** Endast tre veckor senare beviljade Skatteverket SINK för 2024. Detta skedde efter att du sålt dina aktier för att korrigera den brist som ledde till det första avslaget.
+    
+    +1
+    
+- **Beviljande 2025-01-28 (Inkomstår 2025):** Skatteverket bekräftade återigen din status som begränsat skattskyldig. Här är du dessutom registrerad på din adress i **Mutxamel, Spanien** .
+    
+    +3
