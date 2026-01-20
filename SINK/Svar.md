@@ -16,14 +16,14 @@ Jag yrkar att Skatteverket fastställer att jag saknar väsentlig anknytning til
 
 Skatteverket grundar sitt nuvarande förslag på att min makas ägande i _Sincera Holding AB_ ger mig väsentlig anknytning. Jag vill påpeka att Skatteverket redan har prövat och tagit ställning till just denna omständighet vid tre tillfällen under de senaste 16 månaderna:
 
-1. **Beslut 2024-09-17 (Dnr: 301-1022521):** Skatteverket avslog min ansökan för inkomstår 2023 med den specifika motiveringen att jag ägde 50 % av aktierna i bolaget och därmed ansågs ha ett väsentligt inflytande i näringsverksamhet.
+1. **Beslut 2024-09-17 (Dnr: 301-1022521):** Skatteverket avslog min ansökan för inkomstår 2023 med den specifika motiveringen att jag ägde 50 % av aktierna i bolaget och därmed ansågs ha ett väsentligt inflytande i näringsverksamhet. (se bilaga 1a)
     
-2. **Beslut 2024-10-08 (Dnr: 301-1028641):** För att efterkomma Skatteverkets bedömning och klippa den ekonomiska anknytningen sålde jag i september 2023 samtliga mina aktier till min maka. Efter att ha redovisat att jag numera äger 0 % och att min maka äger 100 %, **beviljade** Skatteverket min ansökan för inkomstår 2024.
+2. **Beslut 2024-10-08 (Dnr: 301-1028641):** För att efterkomma Skatteverkets bedömning och klippa den ekonomiska anknytningen sålde jag i september 2023 samtliga mina aktier till min maka. Efter att ha redovisat att jag numera äger 0 % och att min maka äger 100 %, **beviljade** Skatteverket min ansökan för inkomstår 2024. (se bilaga 1b)
     
-3. **Beslut 2025-01-28 (Dnr: 301-3042-2025):** Skatteverket beviljade återigen SINK för inkomstår 2025 baserat på exakt samma ägarstruktur. Vid detta tillfälle var myndigheten även informerad om min permanenta adress i Mutxamel, Spanien.
+3. **Beslut 2025-01-28 (Dnr: 301-3042-2025):** Skatteverket beviljade återigen SINK för inkomstår 2025 baserat på exakt samma ägarstruktur. Vid detta tillfälle var myndigheten även informerad om min permanenta adress i Mutxamel, Spanien. (se bilaga 1c)
     
 
-Vidare har jag under denna period systematiskt avvecklat samtliga formella kopplingar till bolaget. Som framgår av årsredovisningen för räkenskapsåret 2024 har jag lämnat styrelsen och innehar numera inga uppdrag i bolaget.
+Vidare har jag under denna period systematiskt avvecklat samtliga formella kopplingar till bolaget. Som framgår av årsredovisningen för räkenskapsåret 2024 har jag lämnat styrelsen och innehar numera inga uppdrag i bolaget. (se bilaga 5h)
 
 Det framstår som djupt motsägelsefullt att Skatteverket nu föreslår att neka SINK för 2026, och dessutom retroaktivt dra tillbaka besluten för 2024 och 2025, baserat på samma ägarförhållanden som myndigheten vid två tidigare tillfällen bedömt vara förenliga med begränsad skattskyldighet.
 
@@ -45,7 +45,7 @@ Min och min familjs fysiska, sociala och ekonomiska tyngdpunkt har oåterkalleli
 
 ### Sincera Holding AB: Ekonomisk betydelse och avveckling
 
-Skatteverket anför att mitt indirekta engagemang via min maka i _Sincera Holding AB_ utgör en väsentlig anknytning. Vid en prövning av verksamhetens faktiska omfattning, dess ekonomiska utveckling och min personliga koppling till bolaget, framgår det att engagemanget är ekonomiskt försumbart och under avveckling:
+Skatteverket anför att mitt indirekta engagemang via min maka i _Sincera Holding AB_ utgör en väsentlig anknytning. Vid en prövning av verksamhetens faktiska omfattning, dess ekonomiska utveckling och min personliga koppling till bolaget, framgår det att engagemanget är ekonomiskt försumbart och under avveckling: (se bilagor 5g samt 5h, även tidigare årsredovisningar)
 
 - **Kraftigt sjunkande omsättning:** Bolagets omsättning har minskat drastiskt de senaste åren. Från 842 000 kr (2023) till 663 000 kr (2024). För räkenskapsåret 2025 har omsättningen sjunkit ytterligare och beräknas preliminärt uppgå till endast 520 000 – 530 000 kr. Denna tydliga trend visar på en verksamhet som successivt trappas ned. (Se bilagor 5g samt 5h)
     
@@ -83,11 +83,11 @@ Skatteverket anför att min makas innehav i det svenska bolaget utgör en väsen
 
 Enligt denna hierarki ska min hemvist anses vara Spanien baserat på följande grunder:
 
-- **Fast bostad (Artikel 4, punkt 2a):** Jag disponerar endast en fast bostad som stadigvarande står till mitt förfogande, och denna finns i Mutxamel, Spanien. Som tidigare anförts äger jag ingen bostad i Sverige. Enligt avtalet väger tillgången till en permanent bostad i hemviststaten tyngre än ekonomiska kopplingar i källstaten.
+- **Fast bostad (Artikel 4, punkt 2a):** Jag disponerar endast en fast bostad som stadigvarande står till mitt förfogande, och denna finns i Mutxamel, Spanien. Som tidigare anförts äger jag ingen bostad i Sverige. Enligt avtalet väger tillgången till en permanent bostad i hemviststaten tyngre än ekonomiska kopplingar i källstaten. (se bilagor 2 och 3)
     
 - **Centrum för levnadsintressen (Artikel 4, punkt 2a):** Om fast bostad finns i båda staterna (vilket inte är fallet här), ser man till var de personliga och ekonomiska intressena är starkast.
     
-    - **Personliga intressen:** Hela min familj bor i Spanien, min son går i spansk skola och vårt sociala liv är helt etablerat i Alicante-regionen.
+    - **Personliga intressen:** Hela min familj bor i Spanien, min son går i spansk skola och vårt sociala liv är helt etablerat i Alicante-regionen. (se bilaga 7a, 7b, 8a-8d)
         
     - **Ekonomiska intressen:** Jag är pensionerad och min maka är yrkesverksam som fastighetsmäklare (Autónoma) i Spanien. Att min maka äger ett mindre svenskt bolag under avveckling kan inte på något sätt anses väga tyngre än familjens samlade dagliga liv och försörjning i Spanien.
         
