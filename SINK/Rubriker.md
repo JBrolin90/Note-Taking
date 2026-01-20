@@ -7,3 +7,5 @@
 + Social anknytning
 + Sugeys prioritet
 + Avslutning
++ Bilagor
++ 
