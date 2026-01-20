@@ -1,6 +1,11 @@
 ### Anstånd
 
 I enlighet med telefonkontakt med handläggare Madeleine Othén den 14 januari 2026 har jag beviljats anstånd för att lämna synpunkter på förslaget till beslut till och med den **21 januari 2026**. Detta svar inlämnas därmed inom föreskriven tid.
+### Yrkande
+
+Jag motsätter mig Skatteverkets förslag att avslå min ansökan om SINK för inkomstår 2026. Jag motsätter mig även förslaget att retroaktivt upphäva gällande beslut för inkomståren 2024 och 2025.
+
+Jag yrkar att Skatteverket fastställer att jag saknar väsentlig anknytning till Sverige och att min status som begränsat skattskyldig därmed ska bibehållas.
 ### Historik och tidigare prövningar av samma förhållande
 
 Skatteverket grundar sitt nuvarande förslag på att min makas ägande i _Sincera Holding AB_ ger mig väsentlig anknytning. Jag vill påpeka att Skatteverket redan har prövat och tagit ställning till just denna omständighet vid tre tillfällen under de senaste 16 månaderna:
@@ -30,25 +35,6 @@ Min och min familjs fysiska, sociala och ekonomiska tyngdpunkt har oåterkalleli
     
 - **Social anknytning (Sonens skolgång):** Min 13-årige son är sedan september 2023 inskriven och går i skola i Spanien. Familjens vardag och sociala liv är helt etablerat i Alicante-regionen.
   
-
-### Prövning mot dubbelbeskattningsavtalet (SFS 1977:71)
-
-Även om Skatteverket vid en intern svensk prövning anser att väsentlig anknytning föreligger, ska frågan om beskattningsrätt slutgiltigt avgöras enligt skatteavtalet mellan Sverige och Spanien. Enligt artikel 4 i avtalet ska hemvisten fastställas genom en så kallad ”tie-breaker-regel” i de fall en person anses ha hemvist i båda staterna.
-
-Enligt denna hierarki ska min hemvist anses vara Spanien baserat på följande grunder:
-
-- **Fast bostad (Artikel 4, punkt 2a):** Jag disponerar endast en fast bostad som stadigvarande står till mitt förfogande, och denna finns i Mutxamel, Spanien. Som tidigare anförts äger jag ingen bostad i Sverige. Enligt avtalet väger tillgången till en permanent bostad i hemviststaten tyngre än ekonomiska kopplingar i källstaten.
-    
-- **Centrum för levnadsintressen (Artikel 4, punkt 2a):** Om fast bostad finns i båda staterna (vilket inte är fallet här), ser man till var de personliga och ekonomiska intressena är starkast.
-    
-    - **Personliga intressen:** Hela min familj bor i Spanien, min son går i spansk skola och vårt sociala liv är helt etablerat i Alicante-regionen.
-        
-    - **Ekonomiska intressen:** Jag är pensionerad och min maka är yrkesverksam som fastighetsmäklare (Autónoma) i Spanien. Att min maka äger ett mindre svenskt bolag under avveckling kan inte på något sätt anses väga tyngre än familjens samlade dagliga liv och försörjning i Spanien.
-        
-- **Stadigvarande vistelse (Artikel 4, punkt 2b):** Jag vistas året runt i Spanien och befinner mig i Sverige endast vid enstaka kortare besök.
-    
-
-**Slutsats:** Vid en sammanvägd bedömning enligt skatteavtalets kriterier är det otvetydigt att min skatterättsliga hemvist är Spanien. Enligt internationell rätt (som äger företräde framför intern svensk lagstiftning) är jag därmed att betrakta som begränsat skattskyldig i Sverige.
 
 ### Sincera Holding AB: Ekonomisk betydelse och avveckling
 
@@ -83,6 +69,27 @@ Skatteverket anför att min makas innehav i det svenska bolaget utgör en väsen
     
 
 **Slutsats:** Att min maka innehar ett svenskt småbolag under avveckling kan inte rimligen anses väga tyngre än det faktum att hon har en etablerad och aktiv yrkeskarriär i Spanien. Familjens samlade ekonomiska intressen är entydigt knutna till vår hemvist i Mutxamel.
+
+### Prövning mot dubbelbeskattningsavtalet (SFS 1977:71)
+
+Även om Skatteverket vid en intern svensk prövning anser att väsentlig anknytning föreligger, ska frågan om beskattningsrätt slutgiltigt avgöras enligt skatteavtalet mellan Sverige och Spanien. Enligt artikel 4 i avtalet ska hemvisten fastställas genom en så kallad ”tie-breaker-regel” i de fall en person anses ha hemvist i båda staterna.
+
+Enligt denna hierarki ska min hemvist anses vara Spanien baserat på följande grunder:
+
+- **Fast bostad (Artikel 4, punkt 2a):** Jag disponerar endast en fast bostad som stadigvarande står till mitt förfogande, och denna finns i Mutxamel, Spanien. Som tidigare anförts äger jag ingen bostad i Sverige. Enligt avtalet väger tillgången till en permanent bostad i hemviststaten tyngre än ekonomiska kopplingar i källstaten.
+    
+- **Centrum för levnadsintressen (Artikel 4, punkt 2a):** Om fast bostad finns i båda staterna (vilket inte är fallet här), ser man till var de personliga och ekonomiska intressena är starkast.
+    
+    - **Personliga intressen:** Hela min familj bor i Spanien, min son går i spansk skola och vårt sociala liv är helt etablerat i Alicante-regionen.
+        
+    - **Ekonomiska intressen:** Jag är pensionerad och min maka är yrkesverksam som fastighetsmäklare (Autónoma) i Spanien. Att min maka äger ett mindre svenskt bolag under avveckling kan inte på något sätt anses väga tyngre än familjens samlade dagliga liv och försörjning i Spanien.
+        
+- **Stadigvarande vistelse (Artikel 4, punkt 2b):** Jag vistas året runt i Spanien och befinner mig i Sverige endast vid enstaka kortare besök.
+    
+
+**Slutsats:** Vid en sammanvägd bedömning enligt skatteavtalets kriterier är det otvetydigt att min skatterättsliga hemvist är Spanien. Enligt internationell rätt (som äger företräde framför intern svensk lagstiftning) är jag därmed att betrakta som begränsat skattskyldig i Sverige.
+
+
 ### Rättssäkerhet och förutsebarhet
 
 Jag har i god tro anpassat min ekonomiska situation och mitt ägande helt i enlighet med de krav Skatteverket ställde under 2023 för att jag skulle betraktas som begränsat skattskyldig. Genom att myndigheten därefter beviljade mina SINK-ansökningar för både 2024 och 2025 har jag haft en berättigad förväntan om att min skatterättsliga status var fastställd och accepterad.
