@@ -99,7 +99,7 @@ Enligt denna hierarki ska min hemvist anses vara Spanien baserat på följande g
 
 ### Rättssäkerhet och förutsebarhet
 
-Jag har i god tro anpassat min ekonomiska situation och mitt ägande helt i enlighet med de krav Skatteverket ställde under 2023 för att jag skulle betraktas som begränsat skattskyldig. Genom att myndigheten därefter beviljade mina SINK-ansökningar för både 2024 och 2025 har jag haft en berättigad förväntan om att min skatterättsliga status var fastställd och accepterad.
+Jag har i god tro anpassat min ekonomiska situation och mitt ägande helt i enlighet med de krav Skatteverket ställde under 2024 för att jag skulle betraktas som begränsat skattskyldig. Genom att myndigheten därefter beviljade mina SINK-ansökningar för både 2024 och 2025 har jag haft en berättigad förväntan om att min skatterättsliga status var fastställd och accepterad.
 
 Att myndigheten nu föreslår att retroaktivt riva upp dessa beslut är djupt rättsosäkert. Ett sådant agerande strider mot principen om förutsebarhet i myndighetsutövning, särskilt som:
 
