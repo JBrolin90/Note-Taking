@@ -12,3 +12,8 @@
 Enligt skatteavtalet mellan Sverige och Spanien ska hemvisten fastställas till den stat där man har sin fasta bostad och sina starkaste personliga och ekonomiska intressen. Med barn i spansk skola och ingen egen näringsverksamhet i Sverige är det uppenbart att min hemvist enligt avtalet är Spanien.
 
 **Avslutning** Mot bakgrund av min sons skolgång i Spanien och det faktum att jag anpassat mina ekonomiska förhållanden enligt Skatteverkets tidigare krav, bör det nuvarande förslaget till beslut dras tillbaka.
+
+**Skatteavtalet Sverige-Spanien** Vid en sammanvägd bedömning är det uppenbart att mitt "centrum för levnadsintressen" finns i Spanien. Enligt skatteavtalet mellan länderna ska min hemvist därmed anses vara Spanien, vilket bör respekteras i skattebedömningen.
+
+**Skatteavtalet Sverige-Spanien** Vid en sammanvägd bedömning är det uppenbart att mitt "centrum för levnadsintressen" finns i Spanien. Enligt skatteavtalet mellan länderna ska min hemvist därmed anses vara Spanien, vilket bör respekteras i skattebedömningen.
+
