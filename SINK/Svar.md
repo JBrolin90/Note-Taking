@@ -65,3 +65,18 @@ Skatteverket anför att mitt indirekta engagemang via min maka i _Sincera Holdin
     
 
 **Sammanfattningsvis:** Att betrakta ett krympande småbolag under avveckling – från vilket jag aldrig erhållit någon ersättning och där jag inte längre har några formella uppdrag – som en ”väsentlig anknytning” saknar stöd i rimlighetsbedömningar av praxis. Myndighetens förslag att i detta skede av min pensionering ändra bedömningen är orimligt.
+
+### Rättssäkerhet och förutsebarhet
+
+Jag har i god tro anpassat min ekonomiska situation och mitt ägande helt i enlighet med de krav Skatteverket ställde under 2023 för att jag skulle betraktas som begränsat skattskyldig. Genom att myndigheten därefter beviljade mina SINK-ansökningar för både 2024 och 2025 har jag haft en berättigad förväntan om att min skatterättsliga status var fastställd och accepterad.
+
+Att myndigheten nu föreslår att retroaktivt riva upp dessa beslut är djupt rättsosäkert. Ett sådant agerande strider mot principen om förutsebarhet i myndighetsutövning, särskilt som:
+
+1. **Inga oriktiga uppgifter har lämnats:** Jag har varit fullständigt transparent med samtliga förhållanden, inklusive min makas ägande, vid varje ansökningstillfälle.
+    
+2. **Minskad anknytning:** Sedan de gällande besluten fattades har min anknytning till Sverige i realiteten _minskat_ ytterligare genom försäljning av min svenska bostad, förvärv av permanentbostad i Spanien samt min pensionering.
+    
+3. **Bristande logik:** Att myndigheten nu hävdar att samma ägarstruktur som tidigare godkänts plötsligt skulle utgöra en "väsentlig anknytning" framstår som motsägelsefullt.
+    
+
+Ett retroaktivt upphävande av gällande beslut baserat på en ändrad bedömning av redan kända fakta saknar stöd i god förvaltningssed och skapar en ohållbar situation för mig som enskild skattebetalare.
