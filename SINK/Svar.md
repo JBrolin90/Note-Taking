@@ -83,7 +83,7 @@ Skatteverket anför att min makas innehav i det svenska bolaget utgör en väsen
 
 Enligt denna hierarki ska min hemvist anses vara Spanien baserat på följande grunder:
 
-- **Fast bostad (Artikel 4, punkt 2a):** Jag disponerar endast en fast bostad som stadigvarande står till mitt förfogande, och denna finns i Mutxamel, Spanien. Som tidigare anförts äger jag ingen bostad i Sverige. Enligt avtalet väger tillgången till en permanent bostad i hemviststaten tyngre än ekonomiska kopplingar i källstaten. (se bilagor 2 och 3)
+- **Fast bostad (Artikel 4, punkt 2a):** Jag disponerar endast en fast bostad som stadigvarande står till mitt förfogande, och denna finns i Mutxamel, Spanien. Som tidigare anförts äger jag ingen bostad i Sverige.  (se bilagor 2 och 3) Enligt avtalet väger tillgången till en permanent bostad i hemviststaten tyngre än ekonomiska kopplingar i källstaten.
     
 - **Centrum för levnadsintressen (Artikel 4, punkt 2a):** Om fast bostad finns i båda staterna (vilket inte är fallet här), ser man till var de personliga och ekonomiska intressena är starkast.
     
