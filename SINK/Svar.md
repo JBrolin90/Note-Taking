@@ -33,7 +33,9 @@ Min och min familjs fysiska, sociala och ekonomiska tyngdpunkt har oåterkalleli
     
 - **Total familjeutflytt och folkbokföring:** Hela min familj (jag, min maka och vår son) är avregistrerad från svensk folkbokföring sedan oktober 2023. Vi har inga planer på att återvända till Sverige.
     
-- **Social anknytning (Sonens skolgång):** Min 13-årige son är sedan september 2023 inskriven och går i skola i Spanien. Familjens vardag och sociala liv är helt etablerat i Alicante-regionen.
+- **Social anknytning (Sonens skolgång):** Min 13-årige son är sedan oktober 2023 inskriven och går i skola i Spanien. Familjens vardag och sociala liv är helt etablerat i Alicante-regionen.
+ 
+- Skatteverket fattade redan 2023-11-23 ett formellt beslut (Dnr: 18 74 045 955) om att avregistrera hela familjen från folkbokföringen då myndigheten fann det styrkt att utflytten var permanent.
   
 
 ### Sincera Holding AB: Ekonomisk betydelse och avveckling
