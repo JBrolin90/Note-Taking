@@ -122,6 +122,8 @@ Jag har under hela processen agerat i god tro. När Skatteverket 2024 ställde k
 
 Mot bakgrund av ovanstående hemställer jag att Skatteverket vidhåller sin tidigare bedömning och beviljar SINK även för inkomstår 2026.
 
+<div style="page-break-after: always;"></div>
+
 ## Förteckning över bilagor
 
 1. **Skatteverkets beslutshistorik (3 st):** Beslut daterade 2024-09-17 (avslag), 2024-10-08 (beviljande efter rättelse) samt 2025-01-28 (beviljande). Dessa styrker att myndigheten tidigare accepterat nuvarande ägarförhållanden i Sincera Holding AB.
