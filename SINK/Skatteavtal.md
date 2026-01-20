@@ -1,0 +1,3 @@
+[[SINK]] [[Skatteavtal]]
+
+**Skatteavtalet Sverige-Spanien:** Detta nämns inte i dokumentet, men är din starkaste försvarspunkt. Även om du anses ha "väsentlig anknytning" enligt svensk lag, kan skatteavtalet mellan Sverige och Spanien bestämma att du har ditt "skatterättsliga hemvist" i Spanien. Om du bor, verkar och har dina starkaste personliga band i Spanien (Alicante), ska Spanien ha rätten att beskatta dig som bosatt där.
