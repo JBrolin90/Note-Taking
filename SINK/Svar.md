@@ -1,3 +1,6 @@
+### Anstånd
+
+I enlighet med telefonkontakt med handläggare Madeleine Othén den 14 januari 2026 har jag beviljats anstånd för att lämna synpunkter på förslaget till beslut till och med den **21 januari 2026**. Detta svar inlämnas därmed inom föreskriven tid.
 ### Historik och tidigare prövningar av samma förhållande
 
 Skatteverket grundar sitt nuvarande förslag på att min makas ägande i _Sincera Holding AB_ ger mig väsentlig anknytning. Jag vill påpeka att Skatteverket redan har prövat och tagit ställning till just denna omständighet vid tre tillfällen under de senaste 16 månaderna:
