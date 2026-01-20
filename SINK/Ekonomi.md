@@ -1,0 +1,1 @@
+**Avslutning** Mot bakgrund av att jag anpassat mina ekonomiska förhållanden i enlighet med Skatteverkets tidigare krav, och att myndigheten därefter beviljat SINK för 2024 och 2025, bör det nuvarande förslaget till beslut dras tillbaka.
