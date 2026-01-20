@@ -9,3 +9,18 @@
 - Verksamheten är av sådan blygsam karaktär att det inte rimligen kan anses utgöra en "väsentlig anknytning" för en person som inte äger aktier i bolaget och som bor varaktigt utomlands.
 
 **Bemöter citaten:** Du svarar direkt på Skatteverkets eget språk om "verksamhetens omfattning".
+
+**Verksamhetens omfattning och karaktär (Sincera Holding AB)** Skatteverket anför att mitt indirekta engagemang i min makas bolag utgör en väsentlig anknytning. Vid en prövning av "verksamhetens omfattning" framgår dock följande:
+
++2
+
+- **Minskande omsättning:** Bolagets omsättning har minskat stadigt med ca 200 000 kr per år sedan 2023. Den nuvarande omsättningen på ca 600 000 kr är mycket blygsam.
+    
+- **Ingen strategisk prioritet:** Bolaget har inga fast anställda. Min maka, som äger bolaget, prioriterar inte denna verksamhet utan arbetar på heltid som fastighetsmäklare i Spanien.
+    
+    +2
+    
+- **Försäljningsförsök:** Min maka har sedan 2024 aktivt försökt sälja bolaget, dock utan framgång då marknadsvärdet och intresset för verksamheten är lågt.
+    
+
+Att betrakta ett bolag under avveckling/försäljning, där ägaren själv har sin huvudsakliga yrkesverksamhet i ett annat land, som en "väsentlig anknytning" för en icke-ägande make saknar stöd i rimlighetsbedömningar av praxis.
