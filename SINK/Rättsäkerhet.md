@@ -3,3 +3,13 @@
 **Rättssäkerhet och tidigare beslut** Jag har tidigare anpassat min ekonomiska situation genom att sälja mina 50 % av aktierna i Sincera Holding AB till min maka för att klippa den direkta anknytningen. Skatteverket beviljade därefter SINK för 2024 och 2025. Att nu, när bolaget dessutom har krympt i omfattning och min son rotat sig i Spanien, hävda att min anknytning har _ökat_ till en "väsentlig" nivå är motsägelsefullt.
 
 **Rättssäkerhet och förutsebarhet** Jag sålde mina andelar i bolaget 2023 just för att klippa den ekonomiska anknytningen i enlighet med Skatteverkets tidigare bedömning. Myndigheten beviljade därefter SINK för 2024 och 2025. Att retroaktivt upphäva dessa beslut – när bolagets ekonomiska betydelse för familjen dessutom har minskat drastiskt – strider mot principen om förutsebarhet.
+
+**Sammanfattning och rättssäkerhet** Jag sålde mina andelar i bolaget 2023 för att klippa den ekonomiska anknytningen i enlighet med de krav Skatteverket då ställde. Myndigheten beviljade därefter SINK för 2024 och 2025. Att nu retroaktivt upphäva dessa beslut – trots att min anknytning till Sverige har minskat ytterligare genom pensionering och sonens skolgång – vore rättsosäkert.
+
+**Rättssäkerhet** Jag har i god tro anpassat min ekonomi genom att sälja mina andelar 2023 efter Skatteverkets anvisningar. Att myndigheten nu föreslår att retroaktivt riva upp beslut för 2024 och 2025 är rättsosäkert, särskilt då min anknytning till Sverige _minskat_ (genom pensionering) sedan besluten fattades.
+
+**Rättssäkerhet** Jag har i god tro anpassat min ekonomi efter Skatteverkets krav från 2023. Att myndigheten nu föreslår att retroaktivt riva upp beslut för 2024 och 2025 – trots att min anknytning till Sverige _minskat_ ytterligare genom husköp i Spanien och pensionering – vore rättsosäkert.
+
+**Rättssäkerhet** Jag har i god tro anpassat min ekonomi efter Skatteverkets krav från 2023. Att myndigheten nu föreslår att retroaktivt riva upp beslut för 2024 och 2025 – trots att min anknytning till Sverige minskat ytterligare genom försäljning av svensk bostad, husköp i Spanien och pensionering – vore rättsosäkert
+
+**Rättssäkerhet** Jag har i god tro anpassat min ekonomi efter Skatteverkets krav från 2023 då jag sålde mitt aktieinnehav. Att retroaktivt riva upp beslut när min anknytning till Sverige _minskat_ ytterligare vore rättsosäkert.

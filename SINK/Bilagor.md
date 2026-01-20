@@ -1,1 +1,3 @@
-När du skickar mejlet, skriv i brödtexten: _"Bifogat finner ni bilagor 1–X som styrker de faktiska omförhållandena rörande min familjs etablering i Spanien samt bolagets begränsade omfattning."_
+När du skickar mejlet, skriv i brödtexten: _"Bifogat finner ni bilagor 1–X som styrker de faktiska omförhållandena rörande min familjs etablering i Spanien samt bolagets begränsade omfattning."
+
+_"Bilaga X: Beslut om avslag av SINK för inkomstår 2023. Dokumentet bifogas för att visa att jag efter myndighetens bedömning vidtog korrigerande åtgärder (försäljning av aktieandelar) för att uppfylla kraven, vilket därefter godkändes av Skatteverket för inkomståren 2024 och 2025."_
