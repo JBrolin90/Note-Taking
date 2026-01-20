@@ -8,7 +8,7 @@
     "logseq/bak/"
   ],
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
