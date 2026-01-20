@@ -26,3 +26,48 @@ Skatteverket föreslår att upphäva besluten retroaktivt. Detta är juridiskt a
 - **Svagheten:** De utgår från att du har lämnat oriktiga uppgifter eller att de har missat information.
     
 - **Motdrag:** Påpeka att du **öppet redovisade** försäljningen av dina aktier 2023 och att Skatteverket beviljade SINK 2024 baserat på just det faktum att din fru ägde 100 %. Inga nya fakta har framkommit som motiverar en retroaktiv ändring. Detta handlar om en ändrad _bedömning_ av samma fakta, vilket sällan räcker som grund för retroaktiva skattekrav till den skattskyldiges nackdel.
+
+**Historik och rättssäkerhet: Tidigare prövningar av samma förhållande** Skatteverket grundar sitt nuvarande förslag på att min makes ägande i Sincera Holding AB ger mig väsentlig anknytning. Myndigheten har dock redan prövat och tagit ställning till just denna omständighet vid tre tidigare tillfällen:
+
+1. **Avslag inkomstår 2023 (beslut 2024-09-17, ärendenr 301-1022521):** Skatteverket nekade SINK med hänvisning till att jag ägde 50 % av aktierna i Sincera Holding AB.
+    
+    +1
+    
+2. **Rättelse och beviljande 2024 (beslut 2024-10-08, ärendenr 301-1028641):** Efter att jag sålt samtliga mina aktier till min maka för att bryta den ekonomiska anknytningen beviljade Skatteverket min ansökan om SINK för inkomstår 2024.
+    
+    +2
+    
+3. **Beviljande 2025 (beslut 2025-01-28, ärendenr 301-3042-2025):** Skatteverket beviljade återigen SINK för 2025 baserat på exakt samma ägarstruktur som föreligger idag.
+    
+    +1
+    
+
+Det är rättsosäkert att myndigheten nu föreslår att ändra en etablerad bedömning och retroaktivt riva upp beslut, trots att inga faktiska omständigheter har ändrats till det sämre för min del.
+
+### 2. Tidslinjen för dina SINK-beslut
+
+Dina inskickade beslut visar en tydlig kedja av händelser som du bör lyfta fram som ett argument för rättssäkerhet:
+
+- **Avslag 2024-09-17 (Inkomstår 2023):** Skatteverket nekade SINK för att du då ägde **50 %** av Sincera Holding AB .
+    
+    +1
+    
+- **Beviljande 2024-10-08 (Inkomstår 2024):** Endast tre veckor senare beviljade Skatteverket SINK för 2024. Detta skedde efter att du sålt dina aktier för att korrigera den brist som ledde till det första avslaget.
+    
+    +1
+    
+- **Beviljande 2025-01-28 (Inkomstår 2025):** Skatteverket bekräftade återigen din status som begränsat skattskyldig. Här är du dessutom registrerad på din adress i **Mutxamel, Spanien** .
+    
+    +3
+
+**Ditt engagemang:** I årsredovisningen för 2023 stod du fortfarande som styrelseledamot. I årsredovisningen för 2024 är du helt **borttagen ur styrelsen** . Detta är ett mycket viktigt bevis för att du aktivt har avvecklat din formella koppling till bolaget.
+
+Dessa årsredovisningar är tillsammans med dina SINK-beslut de viktigaste dokumenten du har. De bevisar att:
+
+1. Du har lämnat styrelsen.
+    
+    +1
+    
+2. Omsättningen dalar kraftigt.
+    
+3. Verksamheten är personalintensiv (städning) men småskalig och kräver inte din närvaro.

@@ -25,3 +25,9 @@
 - Fram till september 2025 var jag anställd vid Ericsson AB i Sverige. Sedan oktober 2025 är jag formellt pensionerad.
     
 - Min enda inkomst från Sverige framöver är tjänstepension från Alecta. Mitt yrkesliv i Sverige är därmed definitivt avslutat.
+
+**Definitivt yrkesmässigt avslut och pensionering**
+
+- **Pensionering:** Jag pensionerades i oktober 2025. Som framgår av bifogad lönespecifikation och slutavräkning från Ericsson AB har min anställning avslutats definitivt.
+    
+- **Försörjning:** Min huvudsakliga inkomst från Sverige utgörs numera av tjänstepension, vilket bekräftas av bifogat årsbesked från Alecta för 2025. Mitt yrkesliv i Sverige är oåterkalleligen avslutat.

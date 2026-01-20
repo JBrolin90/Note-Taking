@@ -56,3 +56,7 @@ Detta stycke är avgörande eftersom det lyfter frågan från svensk lag till in
 **Tie-breaker:** Enligt artikel 4 i skatteavtalet mellan Sverige och Spanien ska min hemvist anses vara Spanien, då min fasta bostad, min familj och min försörjning (pension) är knuten hit. Skatteavtalet trumfar den interna svenska bedömningen om väsentlig anknytning.
 
 **Skatteavtalet (Tie-breaker):** Enligt artikel 4 i skatteavtalet mellan Sverige och Spanien ska min hemvist anses vara Spanien, då min fasta bostad, min familj och min försörjning (pension) är knuten hit.
+
+**Skatteavtalet och familj** Min 13-årige son går i spansk skola sedan september 2023. Enligt artikel 4 i skatteavtalet mellan Sverige och Spanien ska min hemvist anses vara Spanien, då min fasta bostad, min familj och min försörjning (pension) är knuten hit.
+
+**Tie-breaker (Skatteavtalet Artikel 4)** Vid en sammanvägd bedömning är det uppenbart att mitt centrum för levnadsintressen finns i Spanien. Enligt skatteavtalet mellan Sverige och Spanien ska min hemvist därmed anses vara Spanien

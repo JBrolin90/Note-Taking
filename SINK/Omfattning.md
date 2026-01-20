@@ -74,3 +74,11 @@ Att betrakta ett bolag under avveckling/försäljning, där ägaren själv har s
     +1
     
 - **Makas status:** Min maka är yrkesverksam som "Autónoma" (fastighetsmäklare) i Spanien och prioriterar inte den svenska verksamheten.
+
+- Årsredovisningen för 2024 bekräftar att verksamheten servas av **"cirka 4 timanställda lokalvårdare"**. Det finns inga uppgifter om fast anställd personal eller ledning med månadslön, vilket stärker bilden av en småskalig verksamhet.
+
+**Sincera Holding AB: Ekonomisk betydelse** Bolagets verksamhet är ekonomiskt försumbar och utgör ingen väsentlig anknytning:
+
+- **Ingen ekonomisk vinning:** Jag har personligen erhållit 0 kr i ersättning eller utdelning sedan bolaget bildades 2016. Den totala utkomsten från bolaget har i snitt varit endast 15 000 kr/år.
+    
+- **Avveckling:** Bolaget saknar fast anställda och omsättningen sjunker stadigt (från 842 000 kr år 2023 till 663 000 kr år 2024). Jag ingår inte längre i styrelsen.
