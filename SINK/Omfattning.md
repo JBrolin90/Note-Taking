@@ -74,3 +74,5 @@ Att betrakta ett bolag under avveckling/försäljning, där ägaren själv har s
     +1
     
 - **Makas status:** Min maka är yrkesverksam som "Autónoma" (fastighetsmäklare) i Spanien och prioriterar inte den svenska verksamheten.
+
+- Årsredovisningen för 2024 bekräftar att verksamheten servas av **"cirka 4 timanställda lokalvårdare"**. Det finns inga uppgifter om fast anställd personal eller ledning med månadslön, vilket stärker bilden av en småskalig verksamhet.

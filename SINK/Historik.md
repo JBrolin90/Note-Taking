@@ -59,3 +59,5 @@ Dina inskickade beslut visar en tydlig kedja av händelser som du bör lyfta fra
 - **Beviljande 2025-01-28 (Inkomstår 2025):** Skatteverket bekräftade återigen din status som begränsat skattskyldig. Här är du dessutom registrerad på din adress i **Mutxamel, Spanien** .
     
     +3
+
+**Ditt engagemang:** I årsredovisningen för 2023 stod du fortfarande som styrelseledamot. I årsredovisningen för 2024 är du helt **borttagen ur styrelsen** . Detta är ett mycket viktigt bevis för att du aktivt har avvecklat din formella koppling till bolaget.
