@@ -69,6 +69,20 @@ Skatteverket anför att mitt indirekta engagemang via min maka i _Sincera Holdin
 
 **Sammanfattningsvis:** Att betrakta ett krympande småbolag under avveckling – från vilket jag aldrig erhållit någon ersättning och där jag inte längre har några formella uppdrag – som en ”väsentlig anknytning” saknar stöd i rimlighetsbedömningar av praxis. Myndighetens förslag att i detta skede av min pensionering ändra bedömningen är orimligt.
 
+### Makans yrkesverksamhet och ekonomiska prioritering
+
+Skatteverket anför att min makas innehav i det svenska bolaget utgör en väsentlig anknytning för mig. Detta antagande bortser dock helt från min makas faktiska yrkesverksamhet och ekonomiska livscentrum, som numera är helt förlagt till Spanien:
+
+- **Aktiv yrkeskarriär i Spanien:** Min maka är sedan januari 2024 yrkesverksam som fastighetsmäklare i Spanien. Som framgår av bifogat samarbetsavtal med **RE/MAX** (daterat 2024-01-10) är hon registrerad som självständig säljare/egenföretagare (_vendedor autónomo_) med operativt fokus på regionen Elche/Alicante.
+    
+- **Kontraktsenligt fokus:** Enligt avtalet förbinder hon sig att ägna sin energi, skicklighet och ansträngning åt fastighetsförmedling i Spanien. Hennes ersättning är uteslutande kopplad till försäljningsresultaten på den spanska marknaden.
+    
+- **Fysisk närvaro:** Arbetet kräver hennes dagliga närvaro i Spanien, och avtalet reglerar även att hennes semester ska koordineras med det spanska kontoret. Detta omöjliggör ett aktivt eller operativt engagemang i den småskaliga svenska städverksamheten.
+    
+- **Avveckling av svenska intressen:** Det svenska bolaget, _Sincera Holding AB_, utgör inte min makas strategiska eller ekonomiska prioritering. Som tidigare nämnts är verksamheten föremål för försäljningsförsök och successiv avveckling för att helt harmonisera familjens ekonomi med vår permanenta tillvaro i Spanien.
+    
+
+**Slutsats:** Att min maka innehar ett svenskt småbolag under avveckling kan inte rimligen anses väga tyngre än det faktum att hon har en etablerad och aktiv yrkeskarriär i Spanien. Familjens samlade ekonomiska intressen är entydigt knutna till vår hemvist i Mutxamel.
 ### Rättssäkerhet och förutsebarhet
 
 Jag har i god tro anpassat min ekonomiska situation och mitt ägande helt i enlighet med de krav Skatteverket ställde under 2023 för att jag skulle betraktas som begränsat skattskyldig. Genom att myndigheten därefter beviljade mina SINK-ansökningar för både 2024 och 2025 har jag haft en berättigad förväntan om att min skatterättsliga status var fastställd och accepterad.
