@@ -33,32 +33,31 @@ Ett retroaktivt upphävande kräver normalt att den skattskyldige lämnat orikti
 
 Min och min familjs fysiska, sociala och ekonomiska tyngdpunkt har oåterkalleligen flyttats till Spanien. Enligt Inkomstskattelagen ska innehav av bostad och familjens situation beaktas vid bedömning av väsentlig anknytning, och här är läget följande:
 
-- **Avsaknad av bostad i Sverige:** I september 2023 sålde jag min permanenta bostad i Järfälla (Polhem 5:2) i samband med utflytten. Jag har sedan dess inte disponerat, och disponerar än idag, ingen bostad i Sverige.
+- **Avsaknad av bostad i Sverige:** I september 2023 sålde jag min permanenta bostad i Järfälla (Polhem 5:2) i samband med utflytten. Jag har sedan dess inte disponerat, och disponerar än idag, ingen bostad i Sverige. (Se bilaga 2)
     
-- **Investering i permanentbostad i Spanien:** För att befästa min och familjens permanenta bosättning förvärvade jag under 2024 en villa (Chalet) i Mutxamel, Alicante. Som framgår av bifogat köpekontrakt (_Contrato de Arras_) daterat 2024-09-16 investerade jag 320 000 euro i vårt nya hem. Detta är min enda fasta bostad.
+- **Investering i permanentbostad i Spanien:** För att befästa min och familjens permanenta bosättning förvärvade jag under 2024 en villa (Chalet) i Mutxamel, Alicante. Som framgår av bifogat köpekontrakt (_Contrato de Arras_) daterat 2024-09-16 investerade jag 320 000 euro i vårt nya hem. Detta är min enda fasta bostad. (Se bilaga 3)
     
-- **Total familjeutflytt och folkbokföring:** Hela min familj (jag, min maka och vår son) är avregistrerad från svensk folkbokföring sedan oktober 2023. Vi har inga planer på att återvända till Sverige.
+- **Total familjeutflytt och folkbokföring:** Hela min familj (jag, min maka och vår son) är avregistrerad från svensk folkbokföring sedan oktober 2023. Vi har inga planer på att återvända till Sverige. (Se bilaga 9)
     
-- **Social anknytning (Sonens skolgång):** Min 13-årige son är sedan oktober 2023 inskriven och går i skola i Spanien. Familjens vardag och sociala liv är helt etablerat i Alicante-regionen.
+- **Social anknytning (Sonens skolgång):** Min 13-årige son är sedan oktober 2023 inskriven och går i skola i Spanien. Familjens vardag och sociala liv är helt etablerat i Alicante-regionen. (Se bilagor 7a och 7b)
  
-- Skatteverket fattade redan 2023-11-23 ett formellt beslut (Dnr: 18 74 045 955) om att avregistrera hela familjen från folkbokföringen då myndigheten fann det styrkt att utflytten var permanent.
-  
+- **Formellt beslut om utflyttning:** Skatteverket fattade redan 2023-11-23 ett formellt beslut (Dnr: 18 74 045 955) om att avregistrera hela familjen från folkbokföringen då myndigheten fann det styrkt att utflytten var permanent (se Bilaga 9). 
 
 ### Sincera Holding AB: Ekonomisk betydelse och avveckling
 
 Skatteverket anför att mitt indirekta engagemang via min maka i _Sincera Holding AB_ utgör en väsentlig anknytning. Vid en prövning av verksamhetens faktiska omfattning, dess ekonomiska utveckling och min personliga koppling till bolaget, framgår det att engagemanget är ekonomiskt försumbart och under avveckling:
 
-- **Kraftigt sjunkande omsättning:** Bolagets omsättning har minskat drastiskt de senaste åren. Från 842 000 kr (2023) till 663 000 kr (2024). För räkenskapsåret 2025 har omsättningen sjunkit ytterligare och beräknas preliminärt uppgå till endast 520 000 – 530 000 kr. Denna tydliga trend visar på en verksamhet som successivt trappas ned.
+- **Kraftigt sjunkande omsättning:** Bolagets omsättning har minskat drastiskt de senaste åren. Från 842 000 kr (2023) till 663 000 kr (2024). För räkenskapsåret 2025 har omsättningen sjunkit ytterligare och beräknas preliminärt uppgå till endast 520 000 – 530 000 kr. Denna tydliga trend visar på en verksamhet som successivt trappas ned. (Se bilagor 5g samt 5h)
     
-- **Ingen ekonomisk vinning för mig:** Jag har personligen erhållit exakt 0 kr i ersättning, lön eller utdelning från bolaget sedan det bildades 2016. Jag äger inga andelar i bolaget efter försäljningen i september 2023 (vilket Skatteverket tidigare bekräftat och godkänt).
+- **Ingen ekonomisk vinning för mig:** Jag har personligen erhållit exakt 0 kr i ersättning, lön eller utdelning från bolaget sedan det bildades 2016. Jag äger inga andelar i bolaget efter försäljningen i september 2023 (vilket Skatteverket tidigare bekräftat och godkänt). (Se bilagor 5a till och med 5h)
     
-- **Avvecklingsfas:** Bolaget saknar marknadsvärde och befinner sig i en avvecklingsfas. Min maka har sedan 2024 via sitt kontaktnät försökt sälja bolaget utan framgång. Då bolagets resultat minskar finns inget ekonomiskt utrymme för utdelning under 2025.
+- **Avvecklingsfas:** Bolaget saknar marknadsvärde och befinner sig i en avvecklingsfas. Min maka har sedan 2024 via sitt kontaktnät försökt sälja bolaget utan framgång. Då bolagets resultat minskar finns inget ekonomiskt utrymme för utdelning under 2025. (Se bilagor 5a - 5h)
     
-- **Ingen operativ eller formell roll:** Jag har systematiskt avvecklat mitt engagemang. Jag ingår inte längre i bolagets styrelse (vilket bekräftas av årsredovisningen för 2024) och jag har inga operativa uppgifter. Verksamheten servas uteslutande av cirka fyra timanställda lokalvårdare vid behov.
+- **Ingen operativ eller formell roll:** Jag har systematiskt avvecklat mitt engagemang. Jag ingår inte längre i bolagets styrelse (vilket bekräftas av årsredovisningen för 2024) och jag har inga operativa uppgifter. Verksamheten servas uteslutande av cirka fyra timanställda lokalvårdare vid behov. (Se bilagor 5g samt 5h)
     
-- **Makas yrkesstatus och inkomst:** Min makas huvudsakliga yrkesverksamhet och inkomstkälla finns i Spanien, där hon arbetar som fastighetsmäklare (Autónoma) för Remax (se bifogat kontrakt). Det svenska bolaget utgör inte familjens ekonomiska centrum.
+- **Makas yrkesstatus och inkomst:** Min makas huvudsakliga yrkesverksamhet och inkomstkälla finns i Spanien, där hon arbetar som fastighetsmäklare (Autónoma) för Remax (se bifogat kontrakt, bilaga 4). Det svenska bolaget utgör inte familjens ekonomiska centrum.
     
-- **Definitiv pensionering:** Mitt eget yrkesliv i Sverige är oåterkalleligen avslutat. Jag pensionerades från Ericsson AB i oktober 2025 och min enda framtida inkomst från Sverige är tjänstepension från Alecta.
+- **Definitiv pensionering:** Mitt eget yrkesliv i Sverige är oåterkalleligen avslutat. Jag pensionerades från Ericsson AB i oktober 2025 och min enda framtida inkomst från Sverige är tjänstepension från Alecta. (Se bilagor 6a och 6b)
     
 
 **Sammanfattningsvis:** Att betrakta ett krympande småbolag under avveckling – från vilket jag aldrig erhållit någon ersättning och där jag inte längre har några formella uppdrag – som en ”väsentlig anknytning” saknar stöd i rimlighetsbedömningar av praxis. Myndighetens förslag att i detta skede av min pensionering ändra bedömningen är orimligt.
