@@ -49,9 +49,9 @@ Skatteverket anför att mitt indirekta engagemang via min maka i _Sincera Holdin
 
 - **Kraftigt sjunkande omsättning:** Bolagets omsättning har minskat drastiskt de senaste åren. Från 842 000 kr (2023) till 663 000 kr (2024). För räkenskapsåret 2025 har omsättningen sjunkit ytterligare och beräknas preliminärt uppgå till endast 520 000 – 530 000 kr. Denna tydliga trend visar på en verksamhet som successivt trappas ned. (Se bilagor 5g samt 5h)
     
-- **Ingen ekonomisk vinning för mig:** Jag har personligen erhållit exakt 0 kr i ersättning, lön eller utdelning från bolaget sedan det bildades 2016. Jag äger inga andelar i bolaget efter försäljningen i september 2023 (vilket Skatteverket tidigare bekräftat och godkänt). (Se bilagor 5a till och med 5h)
+- **Ingen ekonomisk vinning för mig:** Jag har personligen erhållit exakt 0 kr i ersättning, lön eller utdelning från bolaget sedan det bildades 2016. Jag äger inga andelar i bolaget efter försäljningen i september 2024 (vilket Skatteverket tidigare bekräftat och godkänt). (Se bilagor 5a till och med 5h)
     
-- **Avvecklingsfas och passiv drift:** Bolaget saknar marknadsvärde och befinner sig i en fas av successiv utfasning. (Se bilagor 5a - 5h) **Intag av nya kunder har helt upphört och verksamheten begränsas nu till att endast serva kvarvarande kundavtal tills dessa löper ut eller sägs upp av kunderna.** Denna pragmatiska avvecklingsstrategi kräver minimalt operativt engagemang och understryker att bolaget saknar framtida kommersiellt fokus. Min maka har sedan 2024 även försökt sälja kundstocken utan framgång. 
+- **Avvecklingsfas och passiv drift:** Bolaget saknar marknadsvärde och befinner sig i en fas av successiv utfasning. (Se bilagor 5a - 5h) **S;kandet av nya kunder har helt upphört och verksamheten begränsas nu till att endast serva kvarvarande kundavtal tills dessa löper ut eller sägs upp av kunderna.** Denna pragmatiska avvecklingsstrategi kräver minimalt operativt engagemang och understryker att bolaget saknar framtida kommersiellt fokus. Min maka har sedan 2024 även försökt sälja kundstocken utan framgång. 
     
 - **Ingen operativ eller formell roll:** Jag har systematiskt avvecklat mitt engagemang. Jag ingår inte längre i bolagets styrelse (vilket bekräftas av årsredovisningen för 2024) och jag har inga operativa uppgifter. Verksamheten servas uteslutande av cirka fyra timanställda lokalvårdare vid behov. (Se bilagor 5g samt 5h)
     
@@ -83,7 +83,7 @@ Skatteverket anför att min makas innehav i det svenska bolaget utgör en väsen
 
 Enligt denna hierarki ska min hemvist anses vara Spanien baserat på följande grunder:
 
-- **Fast bostad (Artikel 4, punkt 2a):** Jag disponerar endast en fast bostad som stadigvarande står till mitt förfogande, och denna finns i Mutxamel, Spanien. Som tidigare anförts äger jag ingen bostad i Sverige. Enligt avtalet väger tillgången till en permanent bostad i hemviststaten tyngre än ekonomiska kopplingar i källstaten. (se bilagor 2 och 3)
+- **Fast bostad (Artikel 4, punkt 2a):** Jag disponerar endast en fast bostad som stadigvarande står till mitt förfogande, och denna finns i Mutxamel, Spanien. Som tidigare anförts äger jag ingen bostad i Sverige.  (se bilagor 2 och 3) Enligt avtalet väger tillgången till en permanent bostad i hemviststaten tyngre än ekonomiska kopplingar i källstaten.
     
 - **Centrum för levnadsintressen (Artikel 4, punkt 2a):** Om fast bostad finns i båda staterna (vilket inte är fallet här), ser man till var de personliga och ekonomiska intressena är starkast.
     
