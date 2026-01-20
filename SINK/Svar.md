@@ -1,3 +1,11 @@
+### Anstånd
+
+I enlighet med telefonkontakt med handläggare Madeleine Othén den 14 januari 2026 har jag beviljats anstånd för att lämna synpunkter på förslaget till beslut till och med den **21 januari 2026**. Detta svar inlämnas därmed inom föreskriven tid.
+### Yrkande
+
+Jag motsätter mig Skatteverkets förslag att avslå min ansökan om SINK för inkomstår 2026. Jag motsätter mig även förslaget att retroaktivt upphäva gällande beslut för inkomståren 2024 och 2025.
+
+Jag yrkar att Skatteverket fastställer att jag saknar väsentlig anknytning till Sverige och att min status som begränsat skattskyldig därmed ska bibehållas.
 ### Historik och tidigare prövningar av samma förhållande
 
 Skatteverket grundar sitt nuvarande förslag på att min makas ägande i _Sincera Holding AB_ ger mig väsentlig anknytning. Jag vill påpeka att Skatteverket redan har prövat och tagit ställning till just denna omständighet vid tre tillfällen under de senaste 16 månaderna:
@@ -28,6 +36,40 @@ Min och min familjs fysiska, sociala och ekonomiska tyngdpunkt har oåterkalleli
 - **Social anknytning (Sonens skolgång):** Min 13-årige son är sedan september 2023 inskriven och går i skola i Spanien. Familjens vardag och sociala liv är helt etablerat i Alicante-regionen.
   
 
+### Sincera Holding AB: Ekonomisk betydelse och avveckling
+
+Skatteverket anför att mitt indirekta engagemang via min maka i _Sincera Holding AB_ utgör en väsentlig anknytning. Vid en prövning av verksamhetens faktiska omfattning, dess ekonomiska utveckling och min personliga koppling till bolaget, framgår det att engagemanget är ekonomiskt försumbart och under avveckling:
+
+- **Kraftigt sjunkande omsättning:** Bolagets omsättning har minskat drastiskt de senaste åren. Från 842 000 kr (2023) till 663 000 kr (2024). För räkenskapsåret 2025 har omsättningen sjunkit ytterligare och beräknas preliminärt uppgå till endast 520 000 – 530 000 kr. Denna tydliga trend visar på en verksamhet som successivt trappas ned.
+    
+- **Ingen ekonomisk vinning för mig:** Jag har personligen erhållit exakt 0 kr i ersättning, lön eller utdelning från bolaget sedan det bildades 2016. Jag äger inga andelar i bolaget efter försäljningen i september 2023 (vilket Skatteverket tidigare bekräftat och godkänt).
+    
+- **Avvecklingsfas:** Bolaget saknar marknadsvärde och befinner sig i en avvecklingsfas. Min maka har sedan 2024 via sitt kontaktnät försökt sälja bolaget utan framgång. Då bolagets resultat minskar finns inget ekonomiskt utrymme för utdelning under 2025.
+    
+- **Ingen operativ eller formell roll:** Jag har systematiskt avvecklat mitt engagemang. Jag ingår inte längre i bolagets styrelse (vilket bekräftas av årsredovisningen för 2024) och jag har inga operativa uppgifter. Verksamheten servas uteslutande av cirka fyra timanställda lokalvårdare vid behov.
+    
+- **Makas yrkesstatus och inkomst:** Min makas huvudsakliga yrkesverksamhet och inkomstkälla finns i Spanien, där hon arbetar som fastighetsmäklare (Autónoma) för Remax (se bifogat kontrakt). Det svenska bolaget utgör inte familjens ekonomiska centrum.
+    
+- **Definitiv pensionering:** Mitt eget yrkesliv i Sverige är oåterkalleligen avslutat. Jag pensionerades från Ericsson AB i oktober 2025 och min enda framtida inkomst från Sverige är tjänstepension från Alecta.
+    
+
+**Sammanfattningsvis:** Att betrakta ett krympande småbolag under avveckling – från vilket jag aldrig erhållit någon ersättning och där jag inte längre har några formella uppdrag – som en ”väsentlig anknytning” saknar stöd i rimlighetsbedömningar av praxis. Myndighetens förslag att i detta skede av min pensionering ändra bedömningen är orimligt.
+
+### Makans yrkesverksamhet och ekonomiska prioritering
+
+Skatteverket anför att min makas innehav i det svenska bolaget utgör en väsentlig anknytning för mig. Detta antagande bortser dock helt från min makas faktiska yrkesverksamhet och ekonomiska livscentrum, som numera är helt förlagt till Spanien:
+
+- **Aktiv yrkeskarriär i Spanien:** Min maka är sedan januari 2024 yrkesverksam som fastighetsmäklare i Spanien. Som framgår av bifogat samarbetsavtal med **RE/MAX** (daterat 2024-01-10) är hon registrerad som självständig säljare/egenföretagare (_vendedor autónomo_) med operativt fokus på regionen Elche/Alicante.
+    
+- **Kontraktsenligt fokus:** Enligt avtalet förbinder hon sig att ägna sin energi, skicklighet och ansträngning åt fastighetsförmedling i Spanien. Hennes ersättning är uteslutande kopplad till försäljningsresultaten på den spanska marknaden.
+    
+- **Fysisk närvaro:** Arbetet kräver hennes dagliga närvaro i Spanien, och avtalet reglerar även att hennes semester ska koordineras med det spanska kontoret. Detta omöjliggör ett aktivt eller operativt engagemang i den småskaliga svenska städverksamheten.
+    
+- **Avveckling av svenska intressen:** Det svenska bolaget, _Sincera Holding AB_, utgör inte min makas strategiska eller ekonomiska prioritering. Som tidigare nämnts är verksamheten föremål för försäljningsförsök och successiv avveckling för att helt harmonisera familjens ekonomi med vår permanenta tillvaro i Spanien.
+    
+
+**Slutsats:** Att min maka innehar ett svenskt småbolag under avveckling kan inte rimligen anses väga tyngre än det faktum att hon har en etablerad och aktiv yrkeskarriär i Spanien. Familjens samlade ekonomiska intressen är entydigt knutna till vår hemvist i Mutxamel.
+
 ### Prövning mot dubbelbeskattningsavtalet (SFS 1977:71)
 
 Även om Skatteverket vid en intern svensk prövning anser att väsentlig anknytning föreligger, ska frågan om beskattningsrätt slutgiltigt avgöras enligt skatteavtalet mellan Sverige och Spanien. Enligt artikel 4 i avtalet ska hemvisten fastställas genom en så kallad ”tie-breaker-regel” i de fall en person anses ha hemvist i båda staterna.
@@ -47,21 +89,26 @@ Enligt denna hierarki ska min hemvist anses vara Spanien baserat på följande g
 
 **Slutsats:** Vid en sammanvägd bedömning enligt skatteavtalets kriterier är det otvetydigt att min skatterättsliga hemvist är Spanien. Enligt internationell rätt (som äger företräde framför intern svensk lagstiftning) är jag därmed att betrakta som begränsat skattskyldig i Sverige.
 
-### Sincera Holding AB: Ekonomisk betydelse och avveckling
 
-Skatteverket anför att mitt indirekta engagemang via min maka i _Sincera Holding AB_ utgör en väsentlig anknytning. Vid en prövning av verksamhetens faktiska omfattning, dess ekonomiska utveckling och min personliga koppling till bolaget, framgår det att engagemanget är ekonomiskt försumbart och under avveckling:
+### Rättssäkerhet och förutsebarhet
 
-- **Kraftigt sjunkande omsättning:** Bolagets omsättning har minskat drastiskt de senaste åren. Från 842 000 kr (2023) till 663 000 kr (2024). För räkenskapsåret 2025 har omsättningen sjunkit ytterligare och beräknas preliminärt uppgå till endast 520 000 – 530 000 kr. Denna tydliga trend visar på en verksamhet som successivt trappas ned.
+Jag har i god tro anpassat min ekonomiska situation och mitt ägande helt i enlighet med de krav Skatteverket ställde under 2023 för att jag skulle betraktas som begränsat skattskyldig. Genom att myndigheten därefter beviljade mina SINK-ansökningar för både 2024 och 2025 har jag haft en berättigad förväntan om att min skatterättsliga status var fastställd och accepterad.
+
+Att myndigheten nu föreslår att retroaktivt riva upp dessa beslut är djupt rättsosäkert. Ett sådant agerande strider mot principen om förutsebarhet i myndighetsutövning, särskilt som:
+
+1. **Inga oriktiga uppgifter har lämnats:** Jag har varit fullständigt transparent med samtliga förhållanden, inklusive min makas ägande, vid varje ansökningstillfälle.
     
-- **Ingen ekonomisk vinning för mig:** Jag har personligen erhållit exakt 0 kr i ersättning, lön eller utdelning från bolaget sedan det bildades 2016. Jag äger inga andelar i bolaget efter försäljningen i september 2023 (vilket Skatteverket tidigare bekräftat och godkänt).
+2. **Minskad anknytning:** Sedan de gällande besluten fattades har min anknytning till Sverige i realiteten _minskat_ ytterligare genom försäljning av min svenska bostad, förvärv av permanentbostad i Spanien samt min pensionering.
     
-- **Avvecklingsfas:** Bolaget saknar marknadsvärde och befinner sig i en avvecklingsfas. Min maka har sedan 2024 via sitt kontaktnät försökt sälja bolaget utan framgång. Då bolagets resultat minskar finns inget ekonomiskt utrymme för utdelning under 2025.
-    
-- **Ingen operativ eller formell roll:** Jag har systematiskt avvecklat mitt engagemang. Jag ingår inte längre i bolagets styrelse (vilket bekräftas av årsredovisningen för 2024) och jag har inga operativa uppgifter. Verksamheten servas uteslutande av cirka fyra timanställda lokalvårdare vid behov.
-    
-- **Makas yrkesstatus och inkomst:** Min makas huvudsakliga yrkesverksamhet och inkomstkälla finns i Spanien, där hon arbetar som fastighetsmäklare (Autónoma) för Remax (se bifogat kontrakt). Det svenska bolaget utgör inte familjens ekonomiska centrum.
-    
-- **Definitiv pensionering:** Mitt eget yrkesliv i Sverige är oåterkalleligen avslutat. Jag pensionerades från Ericsson AB i oktober 2025 och min enda framtida inkomst från Sverige är tjänstepension från Alecta.
+3. **Bristande logik:** Att myndigheten nu hävdar att samma ägarstruktur som tidigare godkänts plötsligt skulle utgöra en "väsentlig anknytning" framstår som motsägelsefullt.
     
 
-**Sammanfattningsvis:** Att betrakta ett krympande småbolag under avveckling – från vilket jag aldrig erhållit någon ersättning och där jag inte längre har några formella uppdrag – som en ”väsentlig anknytning” saknar stöd i rimlighetsbedömningar av praxis. Myndighetens förslag att i detta skede av min pensionering ändra bedömningen är orimligt.
+Ett retroaktivt upphävande av gällande beslut baserat på en ändrad bedömning av redan kända fakta saknar stöd i god förvaltningssed och skapar en ohållbar situation för mig som enskild skattebetalare.
+
+### Avslutning och sammanfattning
+
+Sammanfattningsvis vill jag understryka att min och min familjs utflyttning till Spanien är total och permanent. Att jag är pensionär bosatt i Spanien, saknar egen ekonomisk vinning från min makas bolag och har min son rotad i spansk skola, innebär att mitt centrum för levnadsintressen otvivelaktigt har flyttats från Sverige.
+
+Jag har under hela processen agerat i god tro. När Skatteverket 2023 ställde krav på att jag skulle sälja mitt aktieinnehav för att betraktas som begränsat skattskyldig, efterkom jag detta omedelbart. Att myndigheten nu – när min anknytning till Sverige har minskat ytterligare genom pensionering och fastighetsköp i Spanien – föreslår att retroaktivt riva upp besluten för 2024 och 2025 vore djupt rättsosäkert och orimligt.
+
+Mot bakgrund av ovanstående hemställer jag att Skatteverket vidhåller sin tidigare bedömning och beviljar SINK även för inkomstår 2026.
