@@ -15,3 +15,14 @@ Det framstår som djupt motsägelsefullt att Skatteverket nu föreslår att neka
 
 Ett retroaktivt upphävande kräver normalt att den skattskyldige lämnat oriktiga uppgifter eller att nya fakta framkommit. I detta fall har jag varit fullständigt transparent med samtliga förhållanden. Att myndigheten nu gör en ändrad _bedömning_ av samma fakta strider mot principerna om förutsebarhet och rättssäkerhet.
 
+### Permanent etablering i Spanien och avsaknad av bostad i Sverige
+
+Min och min familjs fysiska, sociala och ekonomiska tyngdpunkt har oåterkalleligen flyttats till Spanien. Enligt Inkomstskattelagen ska innehav av bostad och familjens situation beaktas vid bedömning av väsentlig anknytning, och här är läget följande:
+
+- **Avsaknad av bostad i Sverige:** I september 2023 sålde jag min permanenta bostad i Järfälla (Polhem 5:2) i samband med utflytten. Jag har sedan dess inte disponerat, och disponerar än idag, ingen bostad i Sverige.
+    
+- **Investering i permanentbostad i Spanien:** För att befästa min och familjens permanenta bosättning förvärvade jag under 2024 en villa (Chalet) i Mutxamel, Alicante. Som framgår av bifogat köpekontrakt (_Contrato de Arras_) daterat 2024-09-16 investerade jag 320 000 euro i vårt nya hem. Detta är min enda fasta bostad.
+    
+- **Total familjeutflytt och folkbokföring:** Hela min familj (jag, min maka och vår son) är avregistrerad från svensk folkbokföring sedan oktober 2023. Vi har inga planer på att återvända till Sverige.
+    
+- **Social anknytning (Sonens skolgång):** Min 13-årige son är sedan september 2023 inskriven och går i skola i Spanien. Familjens vardag och sociala liv är helt etablerat i Alicante-regionen.
