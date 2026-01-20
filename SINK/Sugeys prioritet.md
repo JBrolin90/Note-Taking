@@ -5,3 +5,5 @@
 **Makas yrkesverksamhet i Spanien:** Min maka har sin huvudsakliga yrkesverksamhet i Spanien. Hon är formellt registrerad som "Autónoma" (egenföretagare) i Spanien och har ett samarbetsavtal med Remax som fastighetsmäklare. Hennes ekonomiska fokus ligger helt på denna spanska verksamhet.
 
 - **Avveckling:** Min maka prioriterar sin yrkesverksamhet som mäklare i Spanien och har sedan 2024 aktivt försökt sälja det svenska bolaget.
+
+**Makas yrkesstatus:** Min maka har sitt fulla fokus på sin yrkesverksamhet som "Autónoma" (fastighetsmäklare) hos Remax i Spanien.

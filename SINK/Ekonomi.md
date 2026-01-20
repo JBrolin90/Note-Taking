@@ -18,3 +18,10 @@
 **Ekonomiskt engagemang i Sincera Holding AB** Skatteverket anför att min makas bolagsinnehav utgör en väsentlig anknytning för mig. Jag vill mot detta anföra följande:
 
 - **Ingen ekonomisk vinning:** Jag har aldrig erhållit lön, arvode eller utdelning från Sincera Holding AB. Jag äger inga andelar i bolaget.
+
+**Yrkesmässigt avslut och pensionering**
+
+- Jag är varaktigt bosatt i Alicante, Spanien, sedan 2023.
+- Fram till september 2025 var jag anställd vid Ericsson AB i Sverige. Sedan oktober 2025 är jag formellt pensionerad.
+    
+- Min enda inkomst från Sverige framöver är tjänstepension från Alecta. Mitt yrkesliv i Sverige är därmed definitivt avslutat.

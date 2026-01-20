@@ -52,4 +52,7 @@ Detta stycke är avgörande eftersom det lyfter frågan från svensk lag till in
 > 2. Mitt "centrum för levnadsintressen" är otvivelaktigt i Spanien. Jag är formellt pensionerad med Spanien som min hemvist. Min enda yrkesmässiga aktivitet är personlig kompetensutveckling och FoU inom mjukvaruarkitektur (NavIntel), vilket bedrivs helt lokalt.
 >     
 > 3. Att min maka äger ett mindre bolag i Sverige, som dessutom är under avveckling, kan inte väga tyngre än det faktum att jag är pensionerad i Spanien, att min son går i spansk skola och att min maka arbetar i Spanien. Enligt avtalet ska jag därför anses ha hemvist i Spanien, vilket innebär att Sverige inte kan beskatta mig som obegränsat skattskyldig.
->
+
+**Tie-breaker:** Enligt artikel 4 i skatteavtalet mellan Sverige och Spanien ska min hemvist anses vara Spanien, då min fasta bostad, min familj och min försörjning (pension) är knuten hit. Skatteavtalet trumfar den interna svenska bedömningen om väsentlig anknytning.
+
+**Skatteavtalet (Tie-breaker):** Enligt artikel 4 i skatteavtalet mellan Sverige och Spanien ska min hemvist anses vara Spanien, då min fasta bostad, min familj och min försörjning (pension) är knuten hit.

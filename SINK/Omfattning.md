@@ -36,3 +36,31 @@ Att betrakta ett bolag under avveckling/försäljning, där ägaren själv har s
 - **Avveckling:** Min maka prioriterar sin yrkesverksamhet som mäklare i Spanien och har sedan 2024 aktivt försökt sälja det svenska bolaget.
 
 **Bolagets status:** Sincera Holding AB har en begränsad omsättning (ca 600 000 kr) som har sjunkit med ca 200 000 kr per år sedan 2023. Bolaget saknar fast anställda och är under avveckling då min maka sedan 2024 aktivt försökt sälja verksamheten. Det finns inget utrymme för utdelning under 2025.
+
+**Värde och försäljning:** Bolaget saknar i realiteten marknadsvärde. Min maka har sedan 2024 via sitt kontaktnät försökt sälja bolaget utan framgång, och hon förväntar sig ingen ekonomisk vinst vid en eventuell överlåtelse.
+
+**Avvecklingsfas:** Den troligaste utgången för bolaget är att verksamheten successivt upphör. Ett bolag i denna fas kan inte anses ge en "väsentlig anknytning".
+
+**Sincera Holding AB: Ekonomisk betydelse och avveckling** Skatteverket anför att mitt indirekta innehav via maka i Sincera Holding AB ger mig ett väsentligt inflytande i näringsverksamhet. Jag vill mot detta anföra följande fakta som visar att verksamheten är ekonomiskt försumbar:
+
+- **Obetydlig utkomst:** Den totala utkomsten från bolaget sedan bildandet 2016 uppgår till endast ca 140 000 kr. Detta motsvarar ett genomsnitt på ca 15 000 kr per år.
+    
+- **Noll kronor till mig:** Jag har personligen erhållit exakt 0 kr i ersättning, lön eller utdelning från bolaget sedan det bildades 2016.
+    
+- **Makas ersättning:** Min maka har aldrig erhållit lön från bolaget. Den enda utbetalningen är den utdelning som gjordes under 2024, vilken täckte den ackumulerade vinsten sedan bolagsstarten.
+    
+- **Bolagets status:** Omsättningen är låg (ca 600 000 kr) och sjunkande. Bolaget saknar marknadsvärde och är under informell avveckling då min maka sedan 2024 försökt sälja det utan framgång. Det finns inget ekonomiskt utrymme för utdelning under 2025.
+    
+- **Makas yrkesstatus:** Min maka arbetar som "Autónoma" (fastighetsmäklare) hos Remax i Spanien och har sitt fulla fokus där.
+
+**Ekonomisk betydelse och avveckling av Sincera Holding AB** Skatteverket anför att innehavet i Sincera Holding AB utgör en väsentlig anknytning. Jag vill mot detta anföra att verksamheten är ekonomiskt försumbar och saknar koppling till mig:
+
++1
+
+- **Obetydlig utkomst:** Den totala utkomsten från bolaget sedan 2016 uppgår till endast ca 140 000 kr (ca 15 000 kr/år i genomsnitt).
+    
+- **Noll kronor till mig:** Jag har personligen erhållit 0 kr i ersättning eller utdelning sedan bolaget bildades. Jag äger 0 andelar efter att ha sålt mitt innehav 2023.
+    
+- **Avvecklingsfas:** Bolagets omsättning sjunker stadigt (nu ca 600 000 kr) och bolaget är under informell avveckling. Min maka har sedan 2024 försökt sälja bolaget utan framgång och förväntar sig ingen vinst.
+    
+- **Makas yrkesstatus:** Min maka arbetar som "Autónoma" (fastighetsmäklare) hos Remax i Spanien och har sitt fulla professionella fokus där.
