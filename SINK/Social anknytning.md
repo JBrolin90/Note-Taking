@@ -33,3 +33,6 @@
 - **Pensionering:** Jag pensionerades i oktober 2025 efter en anställning hos Ericsson AB. Min enda inkomst framöver är tjänstepension.
 
 **Fysisk koppling:** Jag sålde min permanenta bostad i Sverige i september 2023 och är sedan dess avregistrerad från svensk folkbokföring. Jag disponerar ingen bostad i Sverige.
+
+
+"Under 2024 fördjupades min anknytning till Spanien ytterligare genom förvärvet av en permanentbostad (Chalet) i Mutxamel, Alicante. Som framgår av bifogat köpekontrakt (Contrato de Arras) daterat **2024-09-16** investerade jag **320 000 euro** i mitt nya hem. Detta innehav, kombinerat med att jag saknar bostad i Sverige sedan försäljningen i september 2023, bekräftar att mitt centrum för levnadsintressen är förlagt till Spanien."
