@@ -66,7 +66,7 @@ Skatteverket anför att mitt indirekta engagemang via min maka i _Sincera Holdin
 
 Skatteverket anför att min makas innehav i det svenska bolaget utgör en väsentlig anknytning för mig. Detta antagande bortser dock helt från min makas faktiska yrkesverksamhet och ekonomiska livscentrum, som numera är helt förlagt till Spanien:
 
-- **Aktiv yrkeskarriär i Spanien:** Min maka är sedan januari 2024 yrkesverksam som fastighetsmäklare i Spanien. Som framgår av bifogat samarbetsavtal med **RE/MAX** (daterat 2024-01-10) är hon registrerad som självständig säljare/egenföretagare (_vendedor autónomo_) med operativt fokus på regionen Elche/Alicante.
+- **Aktiv yrkeskarriär i Spanien:** Min maka är sedan januari 2024 yrkesverksam som fastighetsmäklare i Spanien. Som framgår av bifogat samarbetsavtal med **RE/MAX** (daterat 2024-01-10) är hon registrerad som självständig säljare/egenföretagare (_vendedor autónomo_) med operativt fokus på regionen Elche/Alicante. (Se bilaga 4)
     
 - **Kontraktsenligt fokus:** Enligt avtalet förbinder hon sig att ägna sin energi, skicklighet och ansträngning åt fastighetsförmedling i Spanien. Hennes ersättning är uteslutande kopplad till försäljningsresultaten på den spanska marknaden.
     
