@@ -2,7 +2,7 @@
 
 **Till:** Skatteverket, Madeleine Othén, 010-5736342, madeleine.othen@skatteverket.se 
 **Från:** Joachim Brolin (19630316-4930) 
-**Datum:** 2026-01-19
+**Datum:** 2026-01-20
 **Avser:** Synpunkter på förslag till beslut om SINK daterat 2025-12-19 (Ärende \#301-84405-2025)
 ### Anstånd
 
@@ -12,6 +12,9 @@ I enlighet med telefonkontakt med handläggare Madeleine Othén den 14 januari 2
 Jag motsätter mig Skatteverkets förslag att avslå min ansökan om SINK för inkomstår 2026. Jag motsätter mig även förslaget att retroaktivt upphäva gällande beslut för inkomståren 2024 och 2025.
 
 Jag yrkar att Skatteverket fastställer att jag saknar väsentlig anknytning till Sverige och att min status som begränsat skattskyldig därmed ska bibehållas.
+
+<div style="page-break-after: always;"></div>
+
 ### Historik och tidigare prövningar av samma förhållande
 
 Skatteverket grundar sitt nuvarande förslag på att min makas ägande i _Sincera Holding AB_ ger mig väsentlig anknytning. Jag vill påpeka att Skatteverket redan har prövat och tagit ställning till just denna omständighet vid tre tillfällen under de senaste 16 månaderna:
@@ -145,7 +148,10 @@ Mot bakgrund av ovanstående hemställer jag att Skatteverket vidhåller sin tid
 9. **Svenskt registerutdrag:** Bekräftelse på avregistrering från den svenska folkbokföringen (utflyttning) sedan oktober 2023.
 
 
+
 Med vänlig hälsning,
+Alicante, Spanien 2026-01-20
+<br> <br>
 
 Joachim Brolin 
 Carrer d'Eivissa 15, 
