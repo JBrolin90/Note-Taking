@@ -11,3 +11,5 @@
 **Rättssäkerhet** Jag har i god tro anpassat min ekonomi efter Skatteverkets krav från 2023. Att myndigheten nu föreslår att retroaktivt riva upp beslut för 2024 och 2025 – trots att min anknytning till Sverige _minskat_ ytterligare genom husköp i Spanien och pensionering – vore rättsosäkert.
 
 **Rättssäkerhet** Jag har i god tro anpassat min ekonomi efter Skatteverkets krav från 2023. Att myndigheten nu föreslår att retroaktivt riva upp beslut för 2024 och 2025 – trots att min anknytning till Sverige minskat ytterligare genom försäljning av svensk bostad, husköp i Spanien och pensionering – vore rättsosäkert
+
+**Rättssäkerhet** Jag har i god tro anpassat min ekonomi efter Skatteverkets krav från 2023 då jag sålde mitt aktieinnehav. Att retroaktivt riva upp beslut när min anknytning till Sverige _minskat_ ytterligare vore rättsosäkert.

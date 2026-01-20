@@ -7,3 +7,5 @@
 - **Avveckling:** Min maka prioriterar sin yrkesverksamhet som mäklare i Spanien och har sedan 2024 aktivt försökt sälja det svenska bolaget.
 
 **Makas yrkesstatus:** Min maka har sitt fulla fokus på sin yrkesverksamhet som "Autónoma" (fastighetsmäklare) hos Remax i Spanien.
+
+"Min maka, som äger det aktuella bolaget, har också sin permanenta hemvist i Spanien där hon är yrkesverksam som fastighetsmäklare. Vi avser att gemensamt få vår status som begränsat skattskyldiga bekräftad, då hela familjens livscentrum oåterkalleligen har flyttats till Alicante."

@@ -21,3 +21,13 @@
 - **Ingen bostad i Sverige:** Jag sålde min permanenta bostad i Sverige i september 2023 i samband med utflytten. Jag disponerar inte längre någon bostad i Sverige.
     
 - **Permanentbostad i Spanien:** Under 2024 förvärvade jag en permanentbostad (Chalet) i Mutxamel, Alicante. Detta innebär att mitt fysiska hem och min enda fasta bostad numera finns i Spanien.
+
+**Total familjeutflytt och yrkesmässigt avslut**
+
+- **Folkbokföring:** Hela min familj (jag, min maka och vår son) är avregistrerad från svensk folkbokföring sedan oktober 2023.
+    
+- **Bostad:** Jag sålde min permanenta bostad i Sverige i september 2023 och äger sedan 2024 en permanentbostad (Chalet) i Mutxamel, Alicante. Jag disponerar ingen bostad i Sverige.
+    
+    +1
+    
+- **Pensionering:** Jag pensionerades i oktober 2025 efter en anställning hos Ericsson AB. Min enda inkomst framöver är tjänstepension.

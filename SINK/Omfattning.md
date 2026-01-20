@@ -64,3 +64,13 @@ Att betrakta ett bolag under avveckling/försäljning, där ägaren själv har s
 - **Avvecklingsfas:** Bolagets omsättning sjunker stadigt (nu ca 600 000 kr) och bolaget är under informell avveckling. Min maka har sedan 2024 försökt sälja bolaget utan framgång och förväntar sig ingen vinst.
     
 - **Makas yrkesstatus:** Min maka arbetar som "Autónoma" (fastighetsmäklare) hos Remax i Spanien och har sitt fulla professionella fokus där.
+
+**Sincera Holding AB: Ekonomiskt försumbar verksamhet** Skatteverket anför mitt indirekta engagemang via maka som grund för väsentlig anknytning. Detta motsägs av följande:
+
+- **Obetydlig utkomst:** Bolaget har sedan 2016 gett en total utkomst på 140 000 kr (ca 15 000 kr/år). Jag har personligen erhållit 0 kr i ersättning eller utdelning sedan start.
+    
+- **Avveckling:** Bolaget saknar fast anställda, har sjunkande omsättning (ca 600 000 kr) och är föremål för informella försäljningsförsök inför en slutlig avveckling.
+    
+    +1
+    
+- **Makas status:** Min maka är yrkesverksam som "Autónoma" (fastighetsmäklare) i Spanien och prioriterar inte den svenska verksamheten.
