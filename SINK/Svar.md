@@ -112,3 +112,23 @@ Sammanfattningsvis vill jag understryka att min och min familjs utflyttning till
 Jag har under hela processen agerat i god tro. När Skatteverket 2023 ställde krav på att jag skulle sälja mitt aktieinnehav för att betraktas som begränsat skattskyldig, efterkom jag detta omedelbart. Att myndigheten nu – när min anknytning till Sverige har minskat ytterligare genom pensionering och fastighetsköp i Spanien – föreslår att retroaktivt riva upp besluten för 2024 och 2025 vore djupt rättsosäkert och orimligt.
 
 Mot bakgrund av ovanstående hemställer jag att Skatteverket vidhåller sin tidigare bedömning och beviljar SINK även för inkomstår 2026.
+
+## Förteckning över bilagor
+
+1. **Skatteverkets beslutshistorik (3 st):** Beslut daterade 2024-09-17 (avslag), 2024-10-08 (beviljande efter rättelse) samt 2025-01-28 (beviljande). Dessa styrker att myndigheten tidigare accepterat nuvarande ägarförhållanden i Sincera Holding AB.
+    
+2. **Försäljning av bostad i Sverige:** Köpekontrakt för fastigheten Järfälla Polhem 5:2, daterat 2023-09-05. Styrker bruten fysisk anknytning.
+    
+3. **Förvärv av permanentbostad i Spanien:** Köpekontrakt (_Contrato de Arras_) för bostaden på Carrer d'Eivissa 15, Mutxamel, daterat 2024-09-16. Styrker varaktig bosättning och ekonomisk etablering i Spanien.
+    
+4. **Makans yrkesstatus i Spanien:** Samarbetsavtal mellan Sugey Brolin och RE/MAX daterat 2024-01-10. Bekräftar hennes roll som _Autónoma_ och att hennes ekonomiska fokus är förlagt till Spanien.
+    
+5. **Årsredovisningar Sincera Holding AB (2017–2024):** Dokumentation som styrker bolagets begränsade och sjunkande omsättning, att jag lämnat styrelsen samt att min personliga utkomst från bolaget varit 0 kr.
+    
+6. **Dokumentation om pensionering:** Sista lönespecifikation/slutavräkning från Ericsson AB samt årsbesked från Alecta för 2025. Styrker definitivt yrkesmässigt avslut i Sverige.
+    
+7. **Social anknytning:** Skolintyg för sonen i Spanien.
+    
+8. **Spansk folkbokföring:** Intyg om _Empadronamiento_ i Mutxamel, Alicante, sedan oktober 2023.
+    
+9. **Svenskt registerutdrag:** Bekräftelse på avregistrering från den svenska folkbokföringen (utflyttning) sedan oktober 2023.
