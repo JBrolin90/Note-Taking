@@ -1,0 +1,1 @@
+**Social anknytning (Sonens skolgång)** Min 13-årige son går i skola i Spanien sedan september 2023. Att familjens vardag och sociala liv är helt etablerat i Spanien, kombinerat med att jag är pensionerad, innebär att mitt centrum för levnadsintressen enligt artikel 4 i skatteavtalet mellan Sverige och Spanien otvivelaktigt finns i Spanien.
