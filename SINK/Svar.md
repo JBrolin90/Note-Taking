@@ -51,7 +51,7 @@ Skatteverket anför att mitt indirekta engagemang via min maka i _Sincera Holdin
     
 - **Ingen ekonomisk vinning för mig:** Jag har personligen erhållit exakt 0 kr i ersättning, lön eller utdelning från bolaget sedan det bildades 2016. Jag äger inga andelar i bolaget efter försäljningen i september 2023 (vilket Skatteverket tidigare bekräftat och godkänt). (Se bilagor 5a till och med 5h)
     
-- **Avvecklingsfas:** Bolaget saknar marknadsvärde och befinner sig i en avvecklingsfas. Min maka har sedan 2024 via sitt kontaktnät försökt sälja bolaget utan framgång. Då bolagets resultat minskar finns inget ekonomiskt utrymme för utdelning under 2025. (Se bilagor 5a - 5h)
+**Avvecklingsfas och passiv drift:** Bolaget saknar marknadsvärde och befinner sig i en fas av successiv utfasning. **Intag av nya kunder har helt upphört och verksamheten begränsas nu till att endast serva kvarvarande kundavtal tills dessa löper ut eller sägs upp av kunderna.** Denna pragmatiska avvecklingsstrategi kräver minimalt operativt engagemang och understryker att bolaget saknar framtida kommersiellt fokus. Min maka har sedan 2024 även försökt sälja kundstocken utan framgång. (Se bilagor 5a - 5h)
     
 - **Ingen operativ eller formell roll:** Jag har systematiskt avvecklat mitt engagemang. Jag ingår inte längre i bolagets styrelse (vilket bekräftas av årsredovisningen för 2024) och jag har inga operativa uppgifter. Verksamheten servas uteslutande av cirka fyra timanställda lokalvårdare vid behov. (Se bilagor 5g samt 5h)
     
