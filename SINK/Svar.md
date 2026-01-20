@@ -15,3 +15,53 @@ Det framstår som djupt motsägelsefullt att Skatteverket nu föreslår att neka
 
 Ett retroaktivt upphävande kräver normalt att den skattskyldige lämnat oriktiga uppgifter eller att nya fakta framkommit. I detta fall har jag varit fullständigt transparent med samtliga förhållanden. Att myndigheten nu gör en ändrad _bedömning_ av samma fakta strider mot principerna om förutsebarhet och rättssäkerhet.
 
+### Permanent etablering i Spanien och avsaknad av bostad i Sverige
+
+Min och min familjs fysiska, sociala och ekonomiska tyngdpunkt har oåterkalleligen flyttats till Spanien. Enligt Inkomstskattelagen ska innehav av bostad och familjens situation beaktas vid bedömning av väsentlig anknytning, och här är läget följande:
+
+- **Avsaknad av bostad i Sverige:** I september 2023 sålde jag min permanenta bostad i Järfälla (Polhem 5:2) i samband med utflytten. Jag har sedan dess inte disponerat, och disponerar än idag, ingen bostad i Sverige.
+    
+- **Investering i permanentbostad i Spanien:** För att befästa min och familjens permanenta bosättning förvärvade jag under 2024 en villa (Chalet) i Mutxamel, Alicante. Som framgår av bifogat köpekontrakt (_Contrato de Arras_) daterat 2024-09-16 investerade jag 320 000 euro i vårt nya hem. Detta är min enda fasta bostad.
+    
+- **Total familjeutflytt och folkbokföring:** Hela min familj (jag, min maka och vår son) är avregistrerad från svensk folkbokföring sedan oktober 2023. Vi har inga planer på att återvända till Sverige.
+    
+- **Social anknytning (Sonens skolgång):** Min 13-årige son är sedan september 2023 inskriven och går i skola i Spanien. Familjens vardag och sociala liv är helt etablerat i Alicante-regionen.
+  
+
+### Prövning mot dubbelbeskattningsavtalet (SFS 1977:71)
+
+Även om Skatteverket vid en intern svensk prövning anser att väsentlig anknytning föreligger, ska frågan om beskattningsrätt slutgiltigt avgöras enligt skatteavtalet mellan Sverige och Spanien. Enligt artikel 4 i avtalet ska hemvisten fastställas genom en så kallad ”tie-breaker-regel” i de fall en person anses ha hemvist i båda staterna.
+
+Enligt denna hierarki ska min hemvist anses vara Spanien baserat på följande grunder:
+
+- **Fast bostad (Artikel 4, punkt 2a):** Jag disponerar endast en fast bostad som stadigvarande står till mitt förfogande, och denna finns i Mutxamel, Spanien. Som tidigare anförts äger jag ingen bostad i Sverige. Enligt avtalet väger tillgången till en permanent bostad i hemviststaten tyngre än ekonomiska kopplingar i källstaten.
+    
+- **Centrum för levnadsintressen (Artikel 4, punkt 2a):** Om fast bostad finns i båda staterna (vilket inte är fallet här), ser man till var de personliga och ekonomiska intressena är starkast.
+    
+    - **Personliga intressen:** Hela min familj bor i Spanien, min son går i spansk skola och vårt sociala liv är helt etablerat i Alicante-regionen.
+        
+    - **Ekonomiska intressen:** Jag är pensionerad och min maka är yrkesverksam som fastighetsmäklare (Autónoma) i Spanien. Att min maka äger ett mindre svenskt bolag under avveckling kan inte på något sätt anses väga tyngre än familjens samlade dagliga liv och försörjning i Spanien.
+        
+- **Stadigvarande vistelse (Artikel 4, punkt 2b):** Jag vistas året runt i Spanien och befinner mig i Sverige endast vid enstaka kortare besök.
+    
+
+**Slutsats:** Vid en sammanvägd bedömning enligt skatteavtalets kriterier är det otvetydigt att min skatterättsliga hemvist är Spanien. Enligt internationell rätt (som äger företräde framför intern svensk lagstiftning) är jag därmed att betrakta som begränsat skattskyldig i Sverige.
+
+### Sincera Holding AB: Ekonomisk betydelse och avveckling
+
+Skatteverket anför att mitt indirekta engagemang via min maka i _Sincera Holding AB_ utgör en väsentlig anknytning. Vid en prövning av verksamhetens faktiska omfattning, dess ekonomiska utveckling och min personliga koppling till bolaget, framgår det att engagemanget är ekonomiskt försumbart och under avveckling:
+
+- **Kraftigt sjunkande omsättning:** Bolagets omsättning har minskat drastiskt de senaste åren. Från 842 000 kr (2023) till 663 000 kr (2024). För räkenskapsåret 2025 har omsättningen sjunkit ytterligare och beräknas preliminärt uppgå till endast 520 000 – 530 000 kr. Denna tydliga trend visar på en verksamhet som successivt trappas ned.
+    
+- **Ingen ekonomisk vinning för mig:** Jag har personligen erhållit exakt 0 kr i ersättning, lön eller utdelning från bolaget sedan det bildades 2016. Jag äger inga andelar i bolaget efter försäljningen i september 2023 (vilket Skatteverket tidigare bekräftat och godkänt).
+    
+- **Avvecklingsfas:** Bolaget saknar marknadsvärde och befinner sig i en avvecklingsfas. Min maka har sedan 2024 via sitt kontaktnät försökt sälja bolaget utan framgång. Då bolagets resultat minskar finns inget ekonomiskt utrymme för utdelning under 2025.
+    
+- **Ingen operativ eller formell roll:** Jag har systematiskt avvecklat mitt engagemang. Jag ingår inte längre i bolagets styrelse (vilket bekräftas av årsredovisningen för 2024) och jag har inga operativa uppgifter. Verksamheten servas uteslutande av cirka fyra timanställda lokalvårdare vid behov.
+    
+- **Makas yrkesstatus och inkomst:** Min makas huvudsakliga yrkesverksamhet och inkomstkälla finns i Spanien, där hon arbetar som fastighetsmäklare (Autónoma) för Remax (se bifogat kontrakt). Det svenska bolaget utgör inte familjens ekonomiska centrum.
+    
+- **Definitiv pensionering:** Mitt eget yrkesliv i Sverige är oåterkalleligen avslutat. Jag pensionerades från Ericsson AB i oktober 2025 och min enda framtida inkomst från Sverige är tjänstepension från Alecta.
+    
+
+**Sammanfattningsvis:** Att betrakta ett krympande småbolag under avveckling – från vilket jag aldrig erhållit någon ersättning och där jag inte längre har några formella uppdrag – som en ”väsentlig anknytning” saknar stöd i rimlighetsbedömningar av praxis. Myndighetens förslag att i detta skede av min pensionering ändra bedömningen är orimligt.
