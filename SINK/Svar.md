@@ -104,3 +104,11 @@ Att myndigheten nu föreslår att retroaktivt riva upp dessa beslut är djupt r�
     
 
 Ett retroaktivt upphävande av gällande beslut baserat på en ändrad bedömning av redan kända fakta saknar stöd i god förvaltningssed och skapar en ohållbar situation för mig som enskild skattebetalare.
+
+### Avslutning och sammanfattning
+
+Sammanfattningsvis vill jag understryka att min och min familjs utflyttning till Spanien är total och permanent. Att jag är pensionär bosatt i Spanien, saknar egen ekonomisk vinning från min makas bolag och har min son rotad i spansk skola, innebär att mitt centrum för levnadsintressen otvivelaktigt har flyttats från Sverige.
+
+Jag har under hela processen agerat i god tro. När Skatteverket 2023 ställde krav på att jag skulle sälja mitt aktieinnehav för att betraktas som begränsat skattskyldig, efterkom jag detta omedelbart. Att myndigheten nu – när min anknytning till Sverige har minskat ytterligare genom pensionering och fastighetsköp i Spanien – föreslår att retroaktivt riva upp besluten för 2024 och 2025 vore djupt rättsosäkert och orimligt.
+
+Mot bakgrund av ovanstående hemställer jag att Skatteverket vidhåller sin tidigare bedömning och beviljar SINK även för inkomstår 2026.
