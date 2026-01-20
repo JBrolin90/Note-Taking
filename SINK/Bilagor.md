@@ -1,0 +1,1 @@
+När du skickar mejlet, skriv i brödtexten: _"Bifogat finner ni bilagor 1–X som styrker de faktiska omförhållandena rörande min familjs etablering i Spanien samt bolagets begränsade omfattning."_

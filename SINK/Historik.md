@@ -18,3 +18,11 @@ Det är därför djupt motsägelsefullt att Skatteverket nu föreslår att neka 
     
 
 Det är rättsosäkert att myndigheten nu ändrar bedömning och föreslår att retroaktivt riva upp beslut baserat på exakt samma ägarstruktur som tidigare godkänts.
+
+### 3. Retroaktiviteten för 2024 och 2025
+
+Skatteverket föreslår att upphäva besluten retroaktivt. Detta är juridiskt aggressivt.
+
+- **Svagheten:** De utgår från att du har lämnat oriktiga uppgifter eller att de har missat information.
+    
+- **Motdrag:** Påpeka att du **öppet redovisade** försäljningen av dina aktier 2023 och att Skatteverket beviljade SINK 2024 baserat på just det faktum att din fru ägde 100 %. Inga nya fakta har framkommit som motiverar en retroaktiv ändring. Detta handlar om en ändrad _bedömning_ av samma fakta, vilket sällan räcker som grund för retroaktiva skattekrav till den skattskyldiges nackdel.

@@ -1,0 +1,1 @@
+Mot bakgrund av ovanstående hemställer jag att Skatteverket vidhåller tidigare bedömning och beviljar SINK för 2026.

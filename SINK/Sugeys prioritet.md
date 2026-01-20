@@ -1,0 +1,1 @@
+**Mäklarjobbet:** Att din fru jobbar som mäklare i Spanien är ett jättebra bevis. Det visar att hon inte har tid eller intresse av att driva det svenska bolaget aktivt, vilket försvagar teorin om "väsentligt inflytande".
