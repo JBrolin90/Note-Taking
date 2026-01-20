@@ -105,7 +105,7 @@ Att myndigheten nu föreslår att retroaktivt riva upp dessa beslut är djupt r�
 
 1. **Inga oriktiga uppgifter har lämnats:** Jag har varit fullständigt transparent med samtliga förhållanden, inklusive min makas ägande, vid varje ansökningstillfälle.
     
-2. **Minskad anknytning:** Sedan de gällande besluten fattades har min anknytning till Sverige i realiteten _minskat_ ytterligare genom försäljning av min svenska bostad, förvärv av permanentbostad i Spanien samt min pensionering.
+2. **Minskad anknytning:** Sedan de gällande besluten fattades har min anknytning till Sverige i realiteten _minskat_ ytterligare genom försäljning av min svenska bostad, förvärv av permanentbostad i Spanien samt min pensionering. **Därtill har den ekonomiska omfattningen av Sincera Holding AB minskat drastiskt, med en omsättning som sjunkit med nära 40 % på två år.**
     
 3. **Bristande logik:** Att myndigheten nu hävdar att samma ägarstruktur som tidigare godkänts plötsligt skulle utgöra en "väsentlig anknytning" framstår som motsägelsefullt.
     
