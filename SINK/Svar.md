@@ -132,11 +132,11 @@ Mot bakgrund av ovanstående hemställer jag att Skatteverket vidhåller sin tid
     
 4. **Makans yrkesstatus i Spanien:** Samarbetsavtal mellan Sugey Brolin och RE/MAX daterat 2024-01-10. Bekräftar hennes roll som _Autónoma_ och att hennes ekonomiska fokus är förlagt till Spanien.
     
-5. **Årsredovisningar Sincera Holding AB (2017–2024):** Dokumentation som styrker bolagets begränsade och sjunkande omsättning, att jag lämnat styrelsen samt att min personliga utkomst från bolaget varit 0 kr.
+5. **Årsredovisningar Sincera Holding AB (2017–2024):** Dokumentation som styrker bolagets begränsade och sjunkande omsättning, att jag lämnat styrelsen samt att min personliga totala utkomst från bolaget varit 0 kr.
     
 6. **Dokumentation om pensionering:** Sista lönespecifikation/slutavräkning från Ericsson AB samt årsbesked från Alecta för 2025. Styrker definitivt yrkesmässigt avslut i Sverige.
     
-7. **Social anknytning:** Skolintyg för sonen i Spanien.
+7. **Social anknytning:** Skolintyg för sonen i Spanien, personbevis som visar familjens bosättning i Spanien
     
 8. **Spansk folkbokföring:** Intyg om _Empadronamiento_ i Mutxamel, Alicante, sedan oktober 2023.
     
