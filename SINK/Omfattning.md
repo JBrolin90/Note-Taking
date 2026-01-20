@@ -24,3 +24,5 @@
     
 
 Att betrakta ett bolag under avveckling/försäljning, där ägaren själv har sin huvudsakliga yrkesverksamhet i ett annat land, som en "väsentlig anknytning" för en icke-ägande make saknar stöd i rimlighetsbedömningar av praxis.
+
+**Betona "avveckling":** När du pratar med henne, använd ordet "avveckling" eller "exit". Det signalerar till Skatteverket att det inte finns någon långsiktig plan att behålla bolaget i Sverige.

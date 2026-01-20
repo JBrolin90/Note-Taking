@@ -3,3 +3,4 @@
 - **Familj:** Min 13-årige son går i skola i Spanien sedan september 2023. Familjens vardag är helt etablerad här.
     
 - **Ekonomi:** Jag har betydande fasta kostnader i Spanien för sonens skolgång (terminsavgifter) och studiematerial. Mina ekonomiska dispositioner är gjorda utifrån Skatteverkets tidigare beslut om SINK. Att retroaktivt upphäva dessa beslut skulle få orimliga ekonomiska konsekvenser då jag inte har förutsättningar att betala ytterligare svensk skatt för år som redan passerat.
+- **Ekonomi:** Jag bär betydande kostnader i Spanien för sonens skolgång (terminsavgifter och studiematerial). Mina ekonomiska dispositioner har gjorts i god tro baserat på Skatteverkets tidigare beslut om SINK. Att retroaktivt kräva svensk skatt för 2024 och 2025 vore ekonomiskt förödande och saknar grund då mina förhållanden inte har ändrats sedan besluten fattades.

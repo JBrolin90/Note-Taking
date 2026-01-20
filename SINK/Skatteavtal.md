@@ -17,3 +17,5 @@ Enligt skatteavtalet mellan Sverige och Spanien ska hemvisten fastställas till 
 
 **Skatteavtalet Sverige-Spanien** Vid en sammanvägd bedömning är det uppenbart att mitt "centrum för levnadsintressen" finns i Spanien. Enligt skatteavtalet mellan länderna ska min hemvist därmed anses vara Spanien, vilket bör respekteras i skattebedömningen.
 
+**Skatteavtalet mellan Sverige och Spanien** I enlighet med skatteavtalet mellan Sverige och Spanien ska mitt hemvist anses vara Spanien, då min fasta bostad, min familj (sonens skola) och mitt centrum för levnadsintressen finns här.
+
