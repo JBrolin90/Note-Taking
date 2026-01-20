@@ -31,3 +31,5 @@
     +1
     
 - **Pensionering:** Jag pensionerades i oktober 2025 efter en anställning hos Ericsson AB. Min enda inkomst framöver är tjänstepension.
+
+**Fysisk koppling:** Jag sålde min permanenta bostad i Sverige i september 2023 och är sedan dess avregistrerad från svensk folkbokföring. Jag disponerar ingen bostad i Sverige.

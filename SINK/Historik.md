@@ -26,3 +26,20 @@ Skatteverket föreslår att upphäva besluten retroaktivt. Detta är juridiskt a
 - **Svagheten:** De utgår från att du har lämnat oriktiga uppgifter eller att de har missat information.
     
 - **Motdrag:** Påpeka att du **öppet redovisade** försäljningen av dina aktier 2023 och att Skatteverket beviljade SINK 2024 baserat på just det faktum att din fru ägde 100 %. Inga nya fakta har framkommit som motiverar en retroaktiv ändring. Detta handlar om en ändrad _bedömning_ av samma fakta, vilket sällan räcker som grund för retroaktiva skattekrav till den skattskyldiges nackdel.
+
+**Historik och rättssäkerhet: Tidigare prövningar av samma förhållande** Skatteverket grundar sitt nuvarande förslag på att min makes ägande i Sincera Holding AB ger mig väsentlig anknytning. Myndigheten har dock redan prövat och tagit ställning till just denna omständighet vid tre tidigare tillfällen:
+
+1. **Avslag inkomstår 2023 (beslut 2024-09-17, ärendenr 301-1022521):** Skatteverket nekade SINK med hänvisning till att jag ägde 50 % av aktierna i Sincera Holding AB.
+    
+    +1
+    
+2. **Rättelse och beviljande 2024 (beslut 2024-10-08, ärendenr 301-1028641):** Efter att jag sålt samtliga mina aktier till min maka för att bryta den ekonomiska anknytningen beviljade Skatteverket min ansökan om SINK för inkomstår 2024.
+    
+    +2
+    
+3. **Beviljande 2025 (beslut 2025-01-28, ärendenr 301-3042-2025):** Skatteverket beviljade återigen SINK för 2025 baserat på exakt samma ägarstruktur som föreligger idag.
+    
+    +1
+    
+
+Det är rättsosäkert att myndigheten nu föreslår att ändra en etablerad bedömning och retroaktivt riva upp beslut, trots att inga faktiska omständigheter har ändrats till det sämre för min del.
