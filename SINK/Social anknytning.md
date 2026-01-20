@@ -1,1 +1,5 @@
 **Social anknytning (Sonens skolgång)** Min 13-årige son går i skola i Spanien sedan september 2023. Att familjens vardag och sociala liv är helt etablerat i Spanien, kombinerat med att jag är pensionerad, innebär att mitt centrum för levnadsintressen enligt artikel 4 i skatteavtalet mellan Sverige och Spanien otvivelaktigt finns i Spanien.
+
+**Social anknytning och Skatteavtal** Hela min familj lever sitt liv i Spanien. Min 13-årige son går i skola i Spanien sedan september 2023. Enligt skatteavtalet mellan Sverige och Spanien (Artikel 4) ska min hemvist anses vara Spanien, då min fasta bostad, min familj och min försörjning (som pensionär) är knuten hit.
+
+**Social anknytning (Sonens skolgång)** Min 13-årige son är sedan september 2023 inskriven och går i skola i Spanien. Familjens vardag och sociala liv är helt etablerat i Alicante . Enligt artikel 4 i skatteavtalet mellan Sverige och Spanien (tie-breaker-regeln) ska min hemvist anses vara Spanien, då min fasta bostad, min familj och mitt centrum för levnadsintressen finns här.

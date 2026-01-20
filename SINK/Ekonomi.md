@@ -14,3 +14,7 @@
 - **Verksamhetens omfattning:** Bolagets omsättning har minskat med ca 200 000 kr per år sedan 2023 och uppgår nu till endast ca 600 000 kr. Verksamheten saknar fast anställda och är under avveckling då min maka sedan 2024 aktivt försökt sälja bolaget.
 
 **"Aldrig erhållit ersättning":** Detta är ditt absolut starkaste motargument mot frasen "ekonomiskt engagerad". Om du inte får pengar från bolaget och inte äger det, är din anknytning rent formell (via äktenskapet), vilket ofta anses svagare i en sammanvägd bedömning.
+
+**Ekonomiskt engagemang i Sincera Holding AB** Skatteverket anför att min makas bolagsinnehav utgör en väsentlig anknytning för mig. Jag vill mot detta anföra följande:
+
+- **Ingen ekonomisk vinning:** Jag har aldrig erhållit lön, arvode eller utdelning från Sincera Holding AB. Jag äger inga andelar i bolaget.

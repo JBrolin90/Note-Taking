@@ -30,3 +30,9 @@ Att betrakta ett bolag under avveckling/försäljning, där ägaren själv har s
 **Motdrag:** Fortsätt hävda rättssäkerhet, men lägg mer krut på att din anknytning till Sverige faktiskt har **minskat** ytterligare (sonen har nu gått längre tid i spansk skola, bolagets omsättning har sjunkit) sedan de fattade de tidigare besluten.
 
 **"Ingen utdelning 2025":** Det visar att bolaget är på nedgång. Skatteverket kan inte hävda att ett bolag som inte ens kan ge utdelning utgör en "väsentlig" ekonomisk tillgång för dig som pensionär.
+
+- **Bolagets status:** Bolaget har en mycket begränsad omsättning (ca 600 000 kr) som dessutom sjunkit med 200 000 kr per år sedan 2023. Det finns inget utrymme för utdelning 2025.
+    
+- **Avveckling:** Min maka prioriterar sin yrkesverksamhet som mäklare i Spanien och har sedan 2024 aktivt försökt sälja det svenska bolaget.
+
+**Bolagets status:** Sincera Holding AB har en begränsad omsättning (ca 600 000 kr) som har sjunkit med ca 200 000 kr per år sedan 2023. Bolaget saknar fast anställda och är under avveckling då min maka sedan 2024 aktivt försökt sälja verksamheten. Det finns inget utrymme för utdelning under 2025.
