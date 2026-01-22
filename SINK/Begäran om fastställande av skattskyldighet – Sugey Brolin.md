@@ -10,7 +10,7 @@ Då Skatteverket för närvarande utreder min makes (Joachim Brolin, 19630316-49
     
 - **Huvudsaklig yrkesverksamhet:** Mitt professionella liv och min försörjning är helt förlagd till Spanien. Jag är registrerad som självständig näringsidkare (_Autónoma_) och arbetar som fastighetsmäklare för RE/MAX i Alicante-regionen (se bifogat samarbetsavtal). **Enligt avtalet förbinder jag mig att ägna min arbetskraft och mitt fokus åt detta uppdrag, vilket kräver min dagliga fysiska närvaro i Alicante.**
     
-- **Sincera Holding AB (559080-2061):** Jag äger bolaget, men verksamheten är under avveckling och omsättningen har sjunkit kraftigt (med ca 40 % sedan 2023). Vi har upphört med nyförsäljning och servar endast kvarvarande kundavtal tills dessa löper ut, i väntan på att verksamheten helt ska upphöra. Jag uppbär ingen lön eller arvode från bolaget, och dess ekonomiska betydelse för min och familjens försörjning är försumbar.
+- **Sincera Holding AB (559080-2061):** Jag äger bolaget, men verksamheten är i en passiv avvecklingsfas och omsättningen har sjunker kraftigt (med ca 40 % 2023 - 2025). Vi har upphört med nyförsäljning och servar endast kvarvarande kundavtal tills dessa löper ut, i väntan på att verksamheten helt ska upphöra. Jag uppbär ingen lön eller arvode från bolaget, och dess ekonomiska betydelse för min och familjens försörjning är försumbar i jämförelse med min inkomst i Spanien.
 
 
     
