@@ -17,3 +17,5 @@ Topic:
 [GTK Documentation](https://docs.gtk.org/gtk4/index.html)
 
 [Some initial code](file:///home/joachim/lab/training/scratch/src/gtk)
+
+[Cross-compile a GTK3 app from Linux to Windows with native Windows look and feel](https://wrycode.com/gtk3-cross-compile/)
