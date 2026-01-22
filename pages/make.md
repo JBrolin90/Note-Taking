@@ -13,4 +13,4 @@ Topic:
 ---
 [Simple makefile tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 
-[Makefile tutoria](https://github.com/vampy/Makefile)
+[Makefile tutoria](https://github.com/vampy/Makefile) This is very good!
