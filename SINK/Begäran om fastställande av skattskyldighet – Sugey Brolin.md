@@ -19,5 +19,5 @@ Då Skatteverket för närvarande utreder min makes (Joachim Brolin, 19630316-49
 Då min make och jag har identiska förhållanden vad gäller bosättning och social anknytning, hemställer jag att Skatteverket handlägger mitt ärende i samband med min makes (Ärende #301-84405-2025) för att säkerställa en enhetlig och rättssäker bedömning.
 
 Med vänlig hälsning,
-
-Sugey Brolin Carrer d'Eivissa 15, 03110 Mutxamel, Spanien
+<br><br>
+2026-01-22 Sugey Brolin Carrer d'Eivissa 15, 03110 Mutxamel, Spanien
