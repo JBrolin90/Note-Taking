@@ -16,4 +16,4 @@ Topic:
 [GTK C Tutorial](https://github.com/ToshioCP/Gtk4-tutorial/tree/main)
 [GTK Documentation](https://docs.gtk.org/gtk4/index.html)
 
-[Some initial code](file://)
+[Some initial code](file:///home/joachim/lab/training/scratch/src/gtk)
