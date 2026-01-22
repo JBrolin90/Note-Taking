@@ -1,0 +1,19 @@
+---
+tags:
+  - Reference
+Note-Type: Reference
+Created: "[[2026-01-22]]"
+Time: 09:01
+Media-Type:
+Author:
+Publisher:
+Media-Link:
+Topic:
+  - "[[GTK]]"
+  - "[[GUI]]"
+---
+[The GTK project](https://www.gtk.org/)
+[GTK C Tutorial](https://github.com/ToshioCP/Gtk4-tutorial/tree/main)
+[GTK Documentation](https://docs.gtk.org/gtk4/index.html)
+
+[Some initial code](file:///home/joachim/lab/training/scratch/src/gtk)
