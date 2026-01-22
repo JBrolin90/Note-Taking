@@ -8,7 +8,7 @@ Då Skatteverket för närvarande utreder min makes (Joachim Brolin, 19630316-49
 
 - **Permanent bosättning i Spanien:** Jag är tillsammans med min familj avregistrerad från den svenska folkbokföringen sedan 16 oktober 2023. Vi äger och bebor en permanentbostad i Mutxamel, Alicante, och saknar helt bostadsmöjligheter i Sverige.
     
-- **Huvudsaklig yrkesverksamhet:** Mitt professionella liv och min försörjning är helt förlagd till Spanien. Jag är registrerad som självständig näringsidkare (_Autónoma_) och arbetar som fastighetsmäklare för RE/MAX i Alicante-regionen (se bifogat samarbetsavtal).
+- **Huvudsaklig yrkesverksamhet:** Mitt professionella liv och min försörjning är helt förlagd till Spanien. Jag är registrerad som självständig näringsidkare (_Autónoma_) och arbetar som fastighetsmäklare för RE/MAX i Alicante-regionen (se bifogat samarbetsavtal). **Enligt avtalet förbinder jag mig att ägna min arbetskraft och mitt fokus åt detta uppdrag, vilket kräver min dagliga fysiska närvaro i Alicante.**
     
 - **Sincera Holding AB (559080-2061):** Jag äger bolaget, men verksamheten är under avveckling. Vi har upphört med nyförsäljning och servar endast kvarvarande kundavtal tills dessa löper ut. Jag uppbär ingen lön eller arvode från bolaget, och dess ekonomiska betydelse för min försörjning är försumbar i förhållande till min verksamhet i Spanien.
     
