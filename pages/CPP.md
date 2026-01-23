@@ -1,5 +1,5 @@
 - [GeeksForGeeks C++ Documentation](https://www.geeksforgeeks.org/cpp/c-plus-plus/)
 - #C++ [[Signals]] [Events](Signals)
-- 
+- [Namespace](https://www.geeksforgeeks.org/cpp/namespace-in-c/)
 -
 -
