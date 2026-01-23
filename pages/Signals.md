@@ -1,1 +1,2 @@
-- ()https://libsigcplusplus.github.io/libsigcplusplus/reference/html/index.html)
+- [libsigc++ documentation](https://libsigcplusplus.github.io/libsigcplusplus/reference/html/index.html)
+-
