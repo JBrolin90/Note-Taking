@@ -1,3 +1,3 @@
 - [libsigc++ documentation](https://libsigcplusplus.github.io/libsigcplusplus/reference/html/index.html)
 -
--
+- [System signals](https://www.geeksforgeeks.org/cpp/signal-handling-in-cpp/)
