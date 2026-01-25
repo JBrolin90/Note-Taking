@@ -20,6 +20,7 @@ Do 1% better every and after a year, 365 days, you are 3778% better by the end o
 - **改 (Kai):** Means "change," "reform," or "mend".
 - **善 (Zen):** Means "good," "virtuous," or "better".
 
+Hara Hachi Bu. Eat until you are 80% full and wait for 20 minutes. If you are still hungry, -eat more. But you have to wait 20 minutes.
 Other videos
 - Empty your mind
 - Stop making excuses
