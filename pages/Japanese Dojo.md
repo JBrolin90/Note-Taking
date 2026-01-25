@@ -11,8 +11,10 @@ Media-Link: "[Overcome Your Any Addiction](https://www.youtube.com/watch?v=wrYq0
 Topic:
   - "[[Habit]]"
   - "[[Kaizen]]"
+  - "[[Japan]]"
+  - "[[Japanese]]"
 ---
-
+[[Kaizen]] -Continuous improvement through [[Microscopic Change]] One Step at a Time.
 Other videos
 - Empty your mind
 - Stop making excuses
