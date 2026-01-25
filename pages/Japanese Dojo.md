@@ -5,7 +5,7 @@ Note-Type: Reference
 Created: "[[2026-01-25]]"
 Time: 09:01
 Media-Type: Youtube video
-Author: Discipline Dojo
+Author: "[Discipline Dojo](https://www.youtube.com/@DisciplineDojo-e8v)"
 Publisher:
 Media-Link: "[Overcome Your Any Addiction](https://www.youtube.com/watch?v=wrYq0Ajnzc0&t=2074s)"
 Topic:
