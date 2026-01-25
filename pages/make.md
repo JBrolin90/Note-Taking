@@ -15,3 +15,5 @@ Topic:
 
 [Makefile tutoria](https://github.com/vampy/Makefile) This is very good!
 [Auto dependency generation](https://make.mad-scientist.net/papers/advanced-auto-dependency-generation/)
+
+[make manual](https://www.cl.cam.ac.uk/teaching/0910/UnixTools/make.pdf)
