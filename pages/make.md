@@ -14,6 +14,7 @@ Topic:
 [Simple makefile tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 
 [Makefile tutoria](https://github.com/vampy/Makefile) This is very good!
+[Make tutorail](https://mgeier.github.io/make_tutorial/make_tutorial.html)
 [Auto dependency generation](https://make.mad-scientist.net/papers/advanced-auto-dependency-generation/)
 
 [make manual](https://www.cl.cam.ac.uk/teaching/0910/UnixTools/make.pdf)
