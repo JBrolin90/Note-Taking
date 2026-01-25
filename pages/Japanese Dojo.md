@@ -14,7 +14,11 @@ Topic:
   - "[[Japan]]"
   - "[[Japanese]]"
 ---
-[[Kaizen]] -Continuous improvement through [[Microscopic Change]] One Step at a Time.
+[[Kaizen]]   [[改善]] -Continuous improvement through [[Microscopic Change]] One Step at a Time.
+
+- **改 (Kai):** Means "change," "reform," or "mend".
+- **善 (Zen):** Means "good," "virtuous," or "better".
+
 Other videos
 - Empty your mind
 - Stop making excuses
