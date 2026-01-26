@@ -30,3 +30,22 @@ cd freetds
 make
 
 make install
+
+`make install` copies the compiled binaries, libraries, and headers from the build directory to the installation directory specified by `--prefix`.
+
+**What it does:**
+
+- Copies compiled libraries (`.so`, `.a` files) to `prefix/lib/`
+- Copies header files (`.h`) to `prefix/include/`
+- Copies executables/tools to `prefix/bin/`
+- Copies documentation to `prefix/share/`
+- Sets proper permissions
+
+**In your case with `--prefix=$PWD/../freetds-local`:**
+```
+freetds-local/
+├── bin/          # FreeTDS utilities (tsql, etc.)
+├── include/      # Headers you need for compiling
+├── lib/          # Libraries you need for linking
+└── share/        # Documentation, man pages
+```
