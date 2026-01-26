@@ -49,9 +49,15 @@ freetds-local/
 ├── lib/          # Libraries you need for linking
 └── share/        # Documentation, man pages
 ```
+
+For loading library at runtime
 ```make
 FREETDS_DIR = ./freetds-local
 CXXFLAGS = -g -Wall -I$(FREETDS_DIR)/include `pkg-config --cflags gtkmm-4.0`
 CXXLIBS = -L$(FREETDS_DIR)/lib -lsybdb -Wl,-rpath,$(FREETDS_DIR)/lib `pkg-config --libs gtkmm-4.0`
 ```
 
+For static linking.
+```make
+CXXLIBS = $(FREETDS_DIR)/lib/libsybdb.a `pkg-config --libs gtkmm-4.0`
+```
