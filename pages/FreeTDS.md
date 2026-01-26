@@ -14,4 +14,4 @@ If not using odbc, there is no need to install tdsodbc unixodbc unixodbc-dev
 
 I cloned from git.
 Need to install autoconf, automake and libtool
-sudo apt install autoconf automake libtool
+sudo apt install autoconf automake libtool gperf
