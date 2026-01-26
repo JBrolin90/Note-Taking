@@ -10,3 +10,4 @@ Install
 ```bash
 sudo apt install freetds-dev freetds-bin tdsodbc unixodbc unixodbc-dev
 ```
+If not using odbc, there is no need to install tdsodbc unixodbc unixodbc-dev
