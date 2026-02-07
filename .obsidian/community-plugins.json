@@ -1,7 +1,11 @@
 [
   "quickadd",
+  "file-explorer-plus",
+  "todoseq",
+  "obsidian-outliner",
   "obsidian-git",
   "embed-code-file",
+  "obsidian-tasks-plugin",
   "digitalgarden",
   "obsidian-excalidraw-plugin"
 ]

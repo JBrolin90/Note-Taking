@@ -1,2 +1,0 @@
-**Indirekt inflytande:** Att ett indirekt inflytande via maka i ett fåmansbolag ensamt ska medföra obegränsad skattskyldighet för en person som varaktigt utvandrat är en hård tolkning av praxis.
-

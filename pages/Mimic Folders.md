@@ -1,0 +1,3 @@
+- Note Type: [[Fleeting notes]]
+- In Zettelkasten, LogSeq and Obsidian, it is better to avoid folders and use categories, name spaces or other means to mimic folders. This is to allow easier linking, better connections and to avoid that notes are hidden in a deep structure.
+- /TODO Investigate name spaces in LogSeq and obsidian.

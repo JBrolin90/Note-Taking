@@ -1,3 +1,0 @@
-**Yrkande** Jag motsätter mig Skatteverkets förslag att avslå min ansökan om SINK för inkomstår 2026. Jag motsätter mig även förslaget att retroaktivt upphäva tidigare beslut för 2024 och 2025. Jag yrkar att jag fortsatt ska betraktas som begränsat skattskyldig i Sverige då jag saknar väsentlig anknytning.
-
-**Yrkande** Jag motsätter mig Skatteverkets förslag att avslå min ansökan om SINK för inkomstår 2026. Jag motsätter mig även förslaget att retroaktivt upphäva tidigare beslut för 2024 och 2025. Jag yrkar att jag fortsatt ska betraktas som begränsat skattskyldig i Sverige då jag saknar väsentlig anknytning.

@@ -1,0 +1,8 @@
+- [[Git]]
+- [[FreeCad]]
+- [[LogSeq]]
+- [[Obsidian]]
+- [[VS Code]]
+- [[Orca Slicer]]
+- Bambulab P1S #3D-Printer
+- [[Bambu Studio]]

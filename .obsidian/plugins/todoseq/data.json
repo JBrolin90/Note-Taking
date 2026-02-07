@@ -1,0 +1,12 @@
+{
+  "refreshInterval": 30,
+  "additionalTaskKeywords": [],
+  "includeCodeBlocks": false,
+  "includeCalloutBlocks": true,
+  "includeCommentBlocks": false,
+  "taskViewMode": "showAll",
+  "languageCommentSupport": {
+    "enabled": true
+  },
+  "weekStartsOn": "Monday"
+}
