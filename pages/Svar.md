@@ -10,3 +10,7 @@ Redogörelse för resekostnader för att närvara vid huvudförhandling vid Attu
 
 2026-08-10 Resa med bil från hemmet till hotell Novotel Perpignan Rivesaltes, Frankrike, 715 km. Övernattning 200€
 
+2026-08-11 Resa med bil från Novotel Perpignan Rivesaltes till hotel Aux Ducs de Savoie, Frankrike Övernattning 150 €
+
+
+
