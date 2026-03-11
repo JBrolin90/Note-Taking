@@ -18,7 +18,12 @@ Redogörelse för resekostnader för att närvara vid huvudförhandling vid Attu
 
 2025-08-24 Resa med bil från Stockholm till Kungsbacka, 629 km. Övernattning hos bekanta 0 kr
 
-2025-08-31 Resa med bil från Kungsbacka till 
+2025-08-31 Resa med bil från Kungsbacka till Holiday Inn, Hamburg Tyskland 618 km Övernattning 180 €
+
+2025-09-01 Resa med bil från Holiday Inn till Alexander Park Hotell Cahmberly, Frankrike. Övernattning 150 €.
+
+2025-09-02 Resa med bil från Alexander Park till hemmet i Alicante, 1 205 km
+
 
 
 
