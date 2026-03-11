@@ -12,7 +12,7 @@ Redogörelse för resekostnader för att närvara vid huvudförhandling vid Attu
 
 2026-08-11 Resa med bil från Novotel Perpignan Rivesaltes till hotel Aux Ducs de Savoie, Frankrike, 418 km. Övernattning 150 €
 
-2026-08-12 Resa med bil från  hotel Aux Ducs de Savoie till 
+2026-08-12 samt 2025-08-13 Resa med bil från  hotel Aux Ducs de Savoie till Kungsbacka, Sverige, via Stora-Belt-bron, Danmark samt Öresundsbron med brokstnader om c:a 750 kr.   
 
 
 
