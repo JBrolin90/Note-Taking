@@ -30,7 +30,7 @@ Resa med bil tur och retur total 732 mil. Med ett bensinpris på i snitt 1.6 €
 
 2025-08-31 Resa med bil från Kungsbacka till Holiday Inn, Hamburg Tyskland 618 km Övernattning 180 €
 
-2025-09-01 Resa med bil från Holiday Inn till Alexander Park Hotell Cahmberly, Frankrike, 998 km. Övernattning 150 €.
+2025-09-01 Resa med bil från Holiday Inn till Alexander Park Hotell Camberly, Frankrike, 998 km. Övernattning 150 €.
 
 2025-09-02 Resa med bil från Alexander Park till hemmet i Alicante, 1 205 km
 
