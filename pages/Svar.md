@@ -8,5 +8,5 @@ De rättegångskostnader som jag begär avdrag för uppgår till totalt **244 23
 ## Resekostnader
 Redogörelse för resekostnader för att närvara vid huvudförhandling vid Attunda Tingsrätt. Kostnaderna innefattar vårt resesällskap bestående av min fru, min son samt mig själv. Min fru följde med då hon var kallad som vittne och vi var därför nödgade att ta med oss vår son.
 
-2026-08-10 Resa med bil från hemmet till hotell Novotel Perpignan Rivesaltes, Frankrike
+2026-08-10 Resa med bil från hemmet till hotell Novotel Perpignan Rivesaltes, Frankrike, 715 km. Övernattning 200€
 
