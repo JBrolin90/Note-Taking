@@ -16,6 +16,8 @@ Redogörelse för resekostnader för att närvara vid huvudförhandling vid Attu
 
 2025-08-15 Resa med bil från Kungsbacka till Stockholm, 629 km- Övenattning hos bekanta, 0 kr
 
+2025-08-24 Resa med bil från Stockholm till Kungsbacka, 629 km. Övernattning hos bekanta 0 kr
+
 
 
 
