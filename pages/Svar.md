@@ -14,7 +14,11 @@ Redogörelse för resekostnader för att närvara vid huvudförhandling vid Attu
 
 2025-08-12 samt 2025-08-13 Resa med bil från  hotel Aux Ducs de Savoie till Kungsbacka, Sverige, via Stora-Belt-bron, Danmark samt Öresundsbron med brokstnader om c:a 750 kr.  2 121 km. (Vi turades om att köra och hade därför inga övernattningsomkostnader)  
 
-2025-08-15 Resa med bil från Kungsbacka till Stockholm
+2025-08-15 Resa med bil från Kungsbacka till Stockholm, 629 km- Övenattning hos bekanta, 0 kr
+
+
+
+
 
 
 
