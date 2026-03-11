@@ -8,6 +8,8 @@ De rättegångskostnader som jag begär avdrag för uppgår till totalt **244 23
 ## Resekostnader
 Redogörelse för resekostnader för att närvara vid huvudförhandling vid Attunda Tingsrätt. Kostnaderna innefattar vårt resesällskap bestående av min fru, min son samt mig själv. Min fru följde med då hon var kallad som vittne och vi var därför nödgade att ta med oss vår son.
 
+Resa med bil tur och retur total 7 323 km
+
 2025-08-10 Resa med bil från hemmet till hotell Novotel Perpignan Rivesaltes, Frankrike, 715 km. Övernattning 200 €
 
 2025-08-11 Resa med bil från Novotel Perpignan Rivesaltes till hotel Aux Ducs de Savoie, Frankrike, 418 km. Övernattning 150 €
@@ -20,7 +22,7 @@ Redogörelse för resekostnader för att närvara vid huvudförhandling vid Attu
 
 2025-08-31 Resa med bil från Kungsbacka till Holiday Inn, Hamburg Tyskland 618 km Övernattning 180 €
 
-2025-09-01 Resa med bil från Holiday Inn till Alexander Park Hotell Cahmberly, Frankrike. Övernattning 150 €.
+2025-09-01 Resa med bil från Holiday Inn till Alexander Park Hotell Cahmberly, Frankrike, 998 km. Övernattning 150 €.
 
 2025-09-02 Resa med bil från Alexander Park till hemmet i Alicante, 1 205 km
 
