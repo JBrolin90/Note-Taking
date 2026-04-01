@@ -1,0 +1,15 @@
+/* 1. Hide the breadcrumb (date/path) for any query containing a Paragraph link */
+.custom-query:has(.page-ref[data-ref="paragraph"]) .breadcrumb {
+  display: none !important;
+}
+
+/* 2. Hide the query title/header for those specific queries */
+.custom-query:has(.page-ref[data-ref="paragraph"]) .custom-query-title {
+  display: none !important;
+}
+
+/* 3. Optional: Remove the left border and padding to make it look like prose */
+.custom-query:has(.page-ref[data-ref="paragraph"]) .ls-block {
+  border-left: none !important;
+  padding-left: 0 !important;
+}
