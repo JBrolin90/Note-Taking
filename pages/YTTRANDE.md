@@ -9,5 +9,5 @@ Klarläggande samt korrigering av vissa finansiella uppgifter i samband med flyt
 | ----------- | ---------- | ----------- | --- |
 | House price | 320,000 kr | 3,840,000 € |     |
 | House tax   | 32,000 kr  | 384,000 €   |     |
-| Trade       | 34,426 kr  | 413,114 €   |     |
-| Total       | 386,426 kr | 4,637,114 € |     |
+| Trade       | 2,426 kr   | 413,114 €   |     |
+| Sub Total   | 386,426 kr | 4,637,114 € |     |
