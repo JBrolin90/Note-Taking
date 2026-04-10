@@ -17,5 +17,10 @@ Nedanstående tabell visar på de faktiska kostnader jag haft för att förvärv
 | Om och tillbyggnad | 23,845.00 €  |
 | Total              | 378,271.18 € |
 
-ITP 
+**ITP:** Lagfartsavgift/skatt 10% of husets precis, se också bilaga från "Agencia tributaria (Bilaga 1) Valenciana"
+**Compraventa**: Avgift för Notarie inklusive framtagande av dokumentation av huset och dess förvärv (Escritura). Notera att denna Escritura fortfarande är under framtagande.
+
+Jag bifogar kvitto för banköverföringen gällande ITP kompraventa, totalt 34 426.18 € (Bilaga 2)
+
+
 
