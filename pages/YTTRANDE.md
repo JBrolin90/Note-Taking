@@ -5,9 +5,17 @@ Datum: 2026-04-10
 
 Klarläggande samt korrigering av vissa finansiella uppgifter i samband med flytt från fastigheten å Västanvägen 19A, 177 71 Järfälla, sverige till fastighetem å Carrer d'Eivissa 15 0110 Mutxamel, spanien.  
 
-|             |            |             |     |
-| ----------- | ---------- | ----------- | --- |
-| House price | 320,000 kr | 3,840,000 € |     |
-| House tax   | 32,000 kr  | 384,000 €   |     |
-| Trade       | 2,426 kr   | 413,114 €   |     |
-| Sub Total   | 386,426 kr | 4,637,114 € |     |
+
+Nedanstående tabell visar på de faktiska kostnader jag haft för att förvärva fastigheten i Mutxamel.
+
+| Husets pris        | 320,000.00 € |
+| ------------------ | ------------ |
+| ITP                | 32,000.00 €  |
+| CompraVenta        | 2,426.18 €   |
+| Summa              | 354,426.18 € |
+|                    |              |
+| Om och tillbyggnad | 23,845.00 €  |
+| Total              | 378,271.18 € |
+
+ITP 
+
